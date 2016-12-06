@@ -1,0 +1,477 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta Box Script For WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-03 22:18+0700\n"
+"PO-Revision-Date: 2015-01-08 08:51:45+0000\n"
+"Last-Translator: Rilwis <rilwis@gmail.com>\n"
+"Language-Team: Rilwis <rilwis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: ../demo/all-custom-post-types.php:20
+#@ be-themes
+msgid "Personal Information"
+msgstr ""
+
+#: ../demo/all-custom-post-types.php:25
+#@ be-themes
+msgid "Full name"
+msgstr ""
+
+#: ../demo/better-include.php:16 ../demo/include-by-ID-or-page-template.php:8
+#@ be-themes
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../demo/better-include.php:19 ../demo/include-by-ID-or-page-template.php:14
+#@ be-themes
+msgid "Your images"
+msgstr ""
+
+#: ../demo/date-time-js-options.php:11
+#@ be-themes
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../demo/date-time-js-options.php:15
+#@ be-themes
+msgid "Date"
+msgstr ""
+
+#: ../demo/date-time-js-options.php:21 ../demo/demo.php:177
+#@ be-themes
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../demo/date-time-js-options.php:23
+#@ be-themes
+msgid "Select Date"
+msgstr "Chọn ngày"
+
+#: ../demo/date-time-js-options.php:24 ../demo/demo.php:178
+#@ be-themes
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../demo/date-time-js-options.php:30
+#@ be-themes
+msgid "Datetime"
+msgstr ""
+
+#: ../demo/date-time-js-options.php:41
+#@ be-themes
+msgid "Time"
+msgstr ""
+
+#: ../demo/demo.php:34
+#@ be-themes
+msgid "Standard Fields"
+msgstr ""
+
+#: ../demo/demo.php:53
+#@ be-themes
+msgid "Text"
+msgstr ""
+
+#: ../demo/demo.php:57
+#@ be-themes
+msgid "Text description"
+msgstr ""
+
+#: ../demo/demo.php:60
+#@ be-themes
+msgid "Default text value"
+msgstr "Giá trị text mặc định"
+
+#: ../demo/demo.php:66
+#@ be-themes
+msgid "Checkbox"
+msgstr ""
+
+#: ../demo/demo.php:74
+#@ be-themes
+msgid "Radio"
+msgstr ""
+
+#: ../demo/demo.php:80 ../demo/demo.php:91 ../demo/demo.php:226
+#@ be-themes
+msgid "Label1"
+msgstr ""
+
+#: ../demo/demo.php:81 ../demo/demo.php:92 ../demo/demo.php:227
+#@ be-themes
+msgid "Label2"
+msgstr ""
+
+#: ../demo/demo.php:86
+#@ be-themes
+msgid "Select"
+msgstr "Chọn"
+
+#: ../demo/demo.php:96
+#@ be-themes
+msgid "Select an Item"
+msgstr "Chọn một giá trị"
+
+#: ../demo/demo.php:103
+#@ be-themes
+msgid "Hidden value"
+msgstr ""
+
+#: ../demo/demo.php:107
+#@ be-themes
+msgid "Password"
+msgstr ""
+
+#: ../demo/demo.php:113
+#@ be-themes
+msgid "Textarea"
+msgstr ""
+
+#: ../demo/demo.php:114
+#@ be-themes
+msgid "Textarea description"
+msgstr ""
+
+#: ../demo/demo.php:131
+#@ be-themes
+msgid "Password is required"
+msgstr ""
+
+#: ../demo/demo.php:132
+#@ be-themes
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../demo/demo.php:140
+#@ be-themes
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../demo/demo.php:145
+#@ be-themes
+msgid "Slider"
+msgstr ""
+
+#: ../demo/demo.php:150
+#@ be-themes
+msgid "$"
+msgstr ""
+
+#: ../demo/demo.php:151
+#@ be-themes
+msgid " USD"
+msgstr ""
+
+#: ../demo/demo.php:162
+#@ be-themes
+msgid "Number"
+msgstr ""
+
+#: ../demo/demo.php:171
+#@ be-themes
+msgid "Date picker"
+msgstr ""
+
+#: ../demo/demo.php:186
+#@ be-themes
+msgid "Datetime picker"
+msgstr ""
+
+#: ../demo/demo.php:200
+#@ be-themes
+msgid "Time picker"
+msgstr ""
+
+#: ../demo/demo.php:215
+#@ be-themes
+msgid "Color picker"
+msgstr ""
+
+#: ../demo/demo.php:221
+#@ be-themes
+msgid "Checkbox list"
+msgstr ""
+
+#: ../demo/demo.php:232
+#@ be-themes
+msgid "Email"
+msgstr ""
+
+#: ../demo/demo.php:234
+#@ be-themes
+msgid "Email description"
+msgstr ""
+
+#: ../demo/demo.php:240
+#@ be-themes
+msgid "Range"
+msgstr ""
+
+#: ../demo/demo.php:242
+#@ be-themes
+msgid "Range description"
+msgstr ""
+
+#: ../demo/demo.php:251
+#@ be-themes
+msgid "URL"
+msgstr ""
+
+#: ../demo/demo.php:253
+#@ be-themes
+msgid "URL description"
+msgstr ""
+
+#: ../demo/demo.php:259
+#@ be-themes
+msgid "oEmbed"
+msgstr ""
+
+#: ../demo/demo.php:261
+#@ be-themes
+msgid "oEmbed description"
+msgstr ""
+
+#: ../demo/demo.php:266
+#@ be-themes
+msgid "Taxonomy"
+msgstr ""
+
+#: ../demo/demo.php:280
+#@ be-themes
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../demo/demo.php:296
+#@ be-themes
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../demo/demo.php:301
+#@ be-themes
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../demo/demo.php:312 ../demo/force-delete.php:15
+#@ be-themes
+msgid "File Upload"
+msgstr ""
+
+#: ../demo/demo.php:318
+#@ be-themes
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../demo/demo.php:326 ../demo/force-delete.php:22
+#@ be-themes
+msgid "Image Upload"
+msgstr ""
+
+#: ../demo/demo.php:332 ../demo/force-delete.php:28
+#@ be-themes
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../demo/demo.php:338 ../demo/force-delete.php:35
+#, fuzzy
+#@ be-themes
+msgid "Plupload Image Upload"
+msgstr "Tải file"
+
+#: ../demo/demo.php:345
+#@ be-themes
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../demo/force-delete.php:11
+#@ be-themes
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../demo/map.php:9
+#@ be-themes
+msgid "Google Map"
+msgstr ""
+
+#: ../demo/map.php:13
+#@ be-themes
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: ../demo/map.php:15
+#@ be-themes
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../demo/map.php:19
+#@ be-themes
+msgid "Location"
+msgstr "Địa điểm"
+
+#: ../inc/classes/meta-box.php:220
+#@ be-themes
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Vui lòng sửa các lỗi dưới đây và thử lại"
+
+#: ../inc/classes/meta-box.php:394
+#@ be-themes
+msgid "+"
+msgstr ""
+
+#: ../inc/classes/meta-box.php:416
+#@ be-themes
+msgid "&#8211;"
+msgstr ""
+
+#: ../inc/fields/file-advanced.php:23
+#, php-format
+#@ be-themes
+msgid "You may only upload maximum %d file"
+msgstr "Bạn chỉ được phép upload tối đa %d file"
+
+#: ../inc/fields/file-advanced.php:24
+#, php-format
+#@ be-themes
+msgid "You may only upload maximum %d files"
+msgstr "Bạn chỉ được phép upload tối đa %d file"
+
+#: ../inc/fields/file-advanced.php:25
+#, fuzzy
+#@ be-themes
+msgid "Select Files"
+msgstr "Chọn file"
+
+#: ../inc/fields/file-advanced.php:68
+#, fuzzy
+#@ be-themes
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr "Chọn hoặc tải file"
+
+#: ../inc/fields/file-advanced.php:104 ../inc/fields/file.php:133
+#@ be-themes
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Xóa"
+
+#: ../inc/fields/file-advanced.php:105 ../inc/fields/file.php:134
+#@ be-themes
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Sửa"
+
+#: ../inc/fields/file.php:66
+#@ be-themes
+msgid "Error: Cannot delete file"
+msgstr "Lỗi: Không xóa được file"
+
+#: ../inc/fields/file.php:80
+#@ be-themes
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "Tải file"
+
+#: ../inc/fields/file.php:81
+#@ be-themes
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Thêm file mới"
+
+#: ../inc/fields/image-advanced.php:22
+#@ be-themes
+msgid "Select Images"
+msgstr "Chọn hình ảnh"
+
+#: ../inc/fields/image-advanced.php:71
+#@ be-themes
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr "Chọn hoặc tải file"
+
+#: ../inc/fields/image-advanced.php:107 ../inc/fields/image.php:144
+#@ be-themes
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Xóa"
+
+#: ../inc/fields/image-advanced.php:108 ../inc/fields/image.php:145
+#@ be-themes
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Sửa"
+
+#: ../inc/fields/image.php:64
+#@ be-themes
+msgid "Order saved"
+msgstr "Đã lưu thứ tự"
+
+#: ../inc/fields/image.php:78 ../inc/fields/thickbox-image.php:35
+#@ be-themes
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Tải file"
+
+#: ../inc/fields/image.php:79
+#@ be-themes
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Thêm hình mới"
+
+#: ../inc/fields/map.php:48
+#@ be-themes
+msgid "Find Address"
+msgstr "Tìm địa chỉ"
+
+#: ../inc/fields/plupload-image.php:104
+#@ be-themes
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "Kéo thả hình ảnh vào đây"
+
+#: ../inc/fields/plupload-image.php:105
+#@ be-themes
+msgctxt "image upload"
+msgid "or"
+msgstr "hoặc"
+
+#: ../inc/fields/plupload-image.php:106
+#@ be-themes
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "Chọn file"
+
+#: ../inc/fields/plupload-image.php:181
+#@ be-themes
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "Các file hình ảnh được cho phép"
+
+#: ../inc/fields/post.php:54
+#@ be-themes
+msgid "Post"
+msgstr "Bài viết"
+
+#: ../inc/fields/post.php:68 ../inc/fields/taxonomy.php:40
+#, php-format
+#@ be-themes
+msgid "Select a %s"
+msgstr "Chọn %s"
+
+#: ../inc/fields/select-advanced.php:71
+#@ be-themes
+msgid "Select a value"
+msgstr "Chọn một màu"
+

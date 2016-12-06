@@ -1,0 +1,5570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oshin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-07 11:57+0530\n"
+"PO-Revision-Date: 2015-01-08 08:51:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Brand Exponents <swami@brandexponents.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: ../oshin/meta-box/demo/all-custom-post-types.php:20
+#@ be-themes
+msgid "Personal Information"
+msgstr ""
+
+#: ../oshin/meta-box/demo/all-custom-post-types.php:25
+#@ be-themes
+msgid "Full name"
+msgstr ""
+
+#: ../oshin/meta-box/demo/better-include.php:16
+#: ../oshin/meta-box/demo/include-by-ID-or-page-template.php:8
+#@ be-themes
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../oshin/meta-box/demo/better-include.php:19
+#: ../oshin/meta-box/demo/include-by-ID-or-page-template.php:14
+#@ be-themes
+msgid "Your images"
+msgstr ""
+
+#: ../oshin/meta-box/demo/date-time-js-options.php:11
+#@ be-themes
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../oshin/meta-box/demo/date-time-js-options.php:15
+#@ be-themes
+msgid "Date"
+msgstr ""
+
+#: ../oshin/meta-box/demo/date-time-js-options.php:21 ../oshin/meta-box/demo/demo.php:188
+#@ be-themes
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../oshin/meta-box/demo/date-time-js-options.php:23
+#@ be-themes
+msgid "Select Date"
+msgstr ""
+
+#: ../oshin/meta-box/demo/date-time-js-options.php:24 ../oshin/meta-box/demo/demo.php:189
+#@ be-themes
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../oshin/meta-box/demo/date-time-js-options.php:30
+#@ be-themes
+msgid "Datetime"
+msgstr ""
+
+#: ../oshin/meta-box/demo/date-time-js-options.php:41
+#@ be-themes
+msgid "Time"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:38
+#@ be-themes
+msgid "Standard Fields"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2163
+#: ../oshin/functions/be-themes-options-config.php:2230 ../oshin/meta-box/demo/demo.php:57
+#@ be-themes
+msgid "Text"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:61
+#@ be-themes
+msgid "Text description"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:64
+#@ be-themes
+msgid "Default text value"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:70
+#@ be-themes
+msgid "Checkbox"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:78
+#@ be-themes
+msgid "Radio"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:84 ../oshin/meta-box/demo/demo.php:95
+#: ../oshin/meta-box/demo/demo.php:237 ../oshin/meta-box/demo/demo.php:282
+#@ be-themes
+msgid "Label1"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:85 ../oshin/meta-box/demo/demo.php:96
+#: ../oshin/meta-box/demo/demo.php:238 ../oshin/meta-box/demo/demo.php:283
+#@ be-themes
+msgid "Label2"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:90 ../oshin/meta-box/demo/demo.php:277
+#: ../oshin/meta-box/inc/fields/file-input.php:40
+#@ be-themes
+msgid "Select"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:101 ../oshin/meta-box/demo/demo.php:288
+#@ be-themes
+msgid "Select an Item"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:108
+#@ be-themes
+msgid "Hidden value"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+#: ../oshin/meta-box/demo/demo.php:112
+#@ be-themes
+msgid "Password"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:118
+#@ be-themes
+msgid "Textarea"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:119
+#@ be-themes
+msgid "Textarea description"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:136
+#@ be-themes
+msgid "Password is required"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:137
+#@ be-themes
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:145
+#@ be-themes
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:156 ../oshin/meta-box/demo/slider.php:9
+#@ be-themes
+msgid "Slider"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:161 ../oshin/meta-box/demo/slider.php:14
+#@ be-themes
+msgid "$"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:162 ../oshin/meta-box/demo/slider.php:15
+#@ be-themes
+msgid " USD"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:173
+#@ be-themes
+msgid "Number"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:182
+#@ be-themes
+msgid "Date picker"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:197
+#@ be-themes
+msgid "Datetime picker"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:211
+#@ be-themes
+msgid "Time picker"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:226
+#@ be-themes
+msgid "Color picker"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:232
+#@ be-themes
+msgid "Checkbox list"
+msgstr ""
+
+#: ../oshin/contact.php:29 ../oshin/functions/helpers.php:332 ../oshin/meta-box/demo/demo.php:243
+#@ be-themes
+msgid "Email"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:245
+#@ be-themes
+msgid "Email description"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:251
+#@ be-themes
+msgid "Range"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:253
+#@ be-themes
+msgid "Range description"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:207
+#: ../oshin/meta-box/demo/demo.php:262
+#@ be-themes
+msgid "URL"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:264
+#@ be-themes
+msgid "URL description"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:270
+#@ be-themes
+msgid "oEmbed"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:272
+#@ be-themes
+msgid "oEmbed description"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:292
+#@ be-themes
+msgid "Taxonomy"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:306
+#@ be-themes
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:322
+#@ be-themes
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:327
+#@ be-themes
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:343 ../oshin/meta-box/demo/force-delete.php:15
+#@ be-themes
+msgid "File Upload"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:349
+#@ be-themes
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:357 ../oshin/meta-box/demo/force-delete.php:22
+#@ be-themes
+msgid "Image Upload"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:363 ../oshin/meta-box/demo/force-delete.php:28
+#@ be-themes
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:369 ../oshin/meta-box/demo/force-delete.php:35
+#@ be-themes
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:376
+#@ be-themes
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../oshin/meta-box/demo/force-delete.php:11
+#@ be-themes
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../oshin/meta-box/demo/map.php:9
+#@ be-themes
+msgid "Google Map"
+msgstr ""
+
+#: ../oshin/meta-box/demo/map.php:13
+#@ be-themes
+msgid "Address"
+msgstr ""
+
+#: ../oshin/meta-box/demo/map.php:15
+#@ be-themes
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../oshin/meta-box/demo/map.php:19
+#@ be-themes
+msgid "Location"
+msgstr ""
+
+#: ../oshin/meta-box/inc/meta-box.php:241
+#@ be-themes
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../oshin/meta-box/inc/field.php:190
+#@ be-themes
+msgid "+"
+msgstr ""
+
+#: ../oshin/meta-box/inc/field.php:207
+#@ be-themes
+msgid "&#8211;"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/file.php:19
+#, php-format
+#@ be-themes
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/file.php:20
+#, php-format
+#@ be-themes
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/file-advanced.php:23
+#@ be-themes
+msgid "Select Files"
+msgstr ""
+
+#: ../inc/fields/file-advanced.php:68
+#@ be-themes
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ../inc/fields/file-advanced.php:104 ../inc/fields/file.php:133
+#@ be-themes
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ../inc/fields/file-advanced.php:105 ../inc/fields/file.php:134
+#@ be-themes
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/file.php:70
+#@ be-themes
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../inc/fields/file.php:80
+#@ be-themes
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ../inc/fields/file.php:81
+#@ be-themes
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/image-advanced.php:22
+#@ be-themes
+msgid "Select Images"
+msgstr ""
+
+#: ../inc/fields/image-advanced.php:71
+#@ be-themes
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ../inc/fields/image-advanced.php:107 ../inc/fields/image.php:144
+#@ be-themes
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ../inc/fields/image-advanced.php:108 ../inc/fields/image.php:145
+#@ be-themes
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ../inc/fields/image.php:64
+#@ be-themes
+msgid "Order saved"
+msgstr ""
+
+#: ../inc/fields/image.php:78 ../inc/fields/thickbox-image.php:35
+#@ be-themes
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ../inc/fields/image.php:79
+#@ be-themes
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/map.php:48
+#@ be-themes
+msgid "Find Address"
+msgstr ""
+
+#: ../inc/fields/plupload-image.php:104
+#@ be-themes
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ../inc/fields/plupload-image.php:105
+#@ be-themes
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ../inc/fields/plupload-image.php:106
+#@ be-themes
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ../inc/fields/plupload-image.php:181
+#@ be-themes
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/post.php:52
+#@ be-themes
+msgid "Post"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/post.php:66 ../oshin/meta-box/inc/fields/taxonomy.php:40
+#: ../oshin/meta-box/inc/fields/user.php:62
+#, php-format
+#@ be-themes
+msgid "Select a %s"
+msgstr ""
+
+#: ../inc/fields/select-advanced.php:71
+#@ be-themes
+msgid "Select a value"
+msgstr ""
+
+#: ../oshin/404.php:14
+#@ be-themes
+msgid "404 PAGE NOT FOUND"
+msgstr ""
+
+#: ../oshin/404.php:17
+#@ be-themes
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:530
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:1950
+#@ be-themes
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:531
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:1958
+#@ be-themes
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:532
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:1974
+#@ be-themes
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:565
+#@ be-themes
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:566
+#@ be-themes
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:567
+#@ be-themes
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:213
+#, php-format
+#@ be-themes
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:213
+#@ be-themes
+msgid "Redux Framework"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:217
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:221
+#@ be-themes
+msgid "Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:1369
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:1370
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3587
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3666
+#@ be-themes
+msgid "System Info"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:1966
+#@ be-themes
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:1981
+#@ be-themes
+msgid "Please Wait"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:2106
+#@ be-themes
+msgid "Enable"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:2111
+#@ be-themes
+msgid "Disable"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:2117
+#@ be-themes
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:2119
+#@ be-themes
+msgid "clicking"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:2123
+#, php-format
+#@ be-themes
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:2128
+#@ be-themes
+msgid "Hints"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:2253
+#@ be-themes
+msgid "Default"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3334
+#@ be-themes
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3385
+#@ be-themes
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3413
+#@ be-themes
+msgid "Expand"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3415
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3723
+#@ be-themes
+msgid "Save Changes"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3419
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3727
+#@ be-themes
+msgid "Reset Section"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3421
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3729
+#@ be-themes
+msgid "Reset All"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3426
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3734
+#@ be-themes
+msgid "Working..."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3446
+#@ be-themes
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3461
+#@ be-themes
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3475
+#@ be-themes
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3489
+#@ be-themes
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3507
+#@ be-themes
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3515
+#@ be-themes
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/framework.php:3523
+#@ be-themes
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:22
+#@ be-themes
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:24
+#@ be-themes
+msgid "has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/class.redux_functions.php:253
+#@ be-themes
+msgid "Dismiss"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+#@ be-themes
+msgid "The theme you are testing has %s embedded. We invite you to read the %sTheme-Check Documentation%s to understand some warnings you will see because of Redux."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:109
+#@ be-themes
+msgid "The following directories & files are still located in your <strong>Redux</strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/debug.php:41 ../oshin/ReduxFramework/ReduxCore/inc/debug.php:69
+#: ../oshin/ReduxFramework/ReduxCore/inc/debug.php:76 ../oshin/ReduxFramework/ReduxCore/inc/debug.php:77
+#@ be-themes
+msgid "Options Object"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/debug.php:54
+#@ be-themes
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:124
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/color/field_color.php:72
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+#@ be-themes
+msgid "Transparent"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+#: ../oshin/be-themes-metabox.php:462
+#@ be-themes
+msgid "Background Repeat"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+#@ be-themes
+msgid "Background Clip"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+#@ be-themes
+msgid "Background Origin"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+#@ be-themes
+msgid "Background Size"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+#: ../oshin/be-themes-metabox.php:470
+#@ be-themes
+msgid "Background Attachment"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+#: ../oshin/be-themes-metabox.php:478
+#@ be-themes
+msgid "Background Position"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:277
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:149
+#@ be-themes
+msgid "No media selected"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:314
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:193
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:188
+#@ be-themes
+msgid "Upload"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:321
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:200
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+#: ../oshin/meta-box/inc/fields/file-input.php:42
+#@ be-themes
+msgid "Remove"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:114
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#@ be-themes
+msgid "All"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:127
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+#@ be-themes
+msgid "Top"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:134
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#@ be-themes
+msgid "Right"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:141
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+#@ be-themes
+msgid "Bottom"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:148
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#@ be-themes
+msgid "Left"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:162
+#@ be-themes
+msgid "Border style"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+#@ be-themes
+msgid "From "
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+#@ be-themes
+msgid "To "
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+#@ be-themes
+msgid "Width"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:436
+#: ../oshin/be-themes-metabox.php:686 ../oshin/be-themes-metabox.php:795
+#@ be-themes
+msgid "Height"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+#@ be-themes
+msgid "Units"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+#: ../oshin/ReduxFramework/sample/sample-config.php:313
+#@ be-themes
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+#@ be-themes
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+#@ be-themes
+msgid "Regular"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+#@ be-themes
+msgid "Hover"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+#@ be-themes
+msgid "Visited"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+#@ be-themes
+msgid "Active"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+#@ be-themes
+msgid "Add More"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+#@ be-themes
+msgid "Username"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:82
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+#@ be-themes
+msgid "Select an item"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:126
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+#@ be-themes
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:68
+#@ be-themes
+msgid "Slide"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+#@ be-themes
+msgid "New %s"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: ../oshin/woocommerce/class-wc-widget-cart.php:30
+#@ be-themes
+msgid "Title"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204
+#@ be-themes
+msgid "Description"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+#@ be-themes
+msgid "Delete"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+#@ be-themes
+msgid "Add %s"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:41
+#@ be-themes
+msgid "On"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:44
+#@ be-themes
+msgid "Off"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:227
+#@ be-themes
+msgid "Font Family"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:228
+#@ be-themes
+msgid "Font family"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:254
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:255
+#@ be-themes
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:269
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:276
+#@ be-themes
+msgid "Font style"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:270
+#@ be-themes
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:276
+#@ be-themes
+msgid "Style"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:316
+#@ be-themes
+msgid "Font subsets"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:318
+#@ be-themes
+msgid "Font Subsets"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:319
+#@ be-themes
+msgid "Subsets"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:319
+#@ be-themes
+msgid "Font script"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:336
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:337
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:338
+#@ be-themes
+msgid "Text Align"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:359
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:360
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:361
+#@ be-themes
+msgid "Text Transform"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:382
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:383
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:384
+#@ be-themes
+msgid "Font Variant"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:403
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:404
+#@ be-themes
+msgid "Text Decoration"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:426
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:427
+#@ be-themes
+msgid "Font Size"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:427
+#@ be-themes
+msgid "Size"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:435
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:436
+#@ be-themes
+msgid "Line Height"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:444
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:445
+#@ be-themes
+msgid "Word Spacing"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:453
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:454
+#@ be-themes
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:472
+#@ be-themes
+msgid "Font Color"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:474
+#@ be-themes
+msgid "Font color"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:851
+#@ be-themes
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:952
+#@ be-themes
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:78
+#@ be-themes
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:81
+#@ be-themes
+msgid "Import Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:82
+#@ be-themes
+msgid "Import from file"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:82
+#@ be-themes
+msgid "Import from URL"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:85
+#@ be-themes
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:90
+#@ be-themes
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:94
+#@ be-themes
+msgid "Import"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:94
+#@ be-themes
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:97
+#@ be-themes
+msgid "Export Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:100
+#@ be-themes
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:104
+#@ be-themes
+msgid "Copy"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:104
+#@ be-themes
+msgid "Download"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:104
+#@ be-themes
+msgid "Copy Link"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:140
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:149
+#: ../oshin/ReduxFramework/ReduxCore/inc/import_export.php:150
+#: ../oshin/ReduxFramework/sample/sample-config.php:1533
+#: ../oshin/functions/be-themes-options-config.php:2776
+#@ be-themes
+msgid "Import / Export"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:129
+#@ be-themes
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:130
+#@ be-themes
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:135
+#@ be-themes
+msgid "Allow tracking"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:140
+#@ be-themes
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:151
+#@ be-themes
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:152
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:139
+#@ be-themes
+msgid "Getting Started"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:152
+#, php-format
+#@ be-themes
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:152
+#@ be-themes
+msgid "our documentation"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:153
+#@ be-themes
+msgid "Redux Generator"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+#@ be-themes
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:154
+#@ be-themes
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+#@ be-themes
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:154
+#@ be-themes
+msgid "extensions directory"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:155
+#@ be-themes
+msgid "Like Redux?"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:155
+#, php-format
+#@ be-themes
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:155
+#@ be-themes
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:155
+#@ be-themes
+msgid "donation"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:156
+#@ be-themes
+msgid "Newsletter"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:156
+#@ be-themes
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:157
+#@ be-themes
+msgid "Email address"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:157
+#@ be-themes
+msgid "Subscribe"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/tracking.php:166
+#@ be-themes
+msgid "Close"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+#@ be-themes
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+#@ be-themes
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+#@ be-themes
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#@ be-themes
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+#@ be-themes
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+#@ be-themes
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+#@ be-themes
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#@ be-themes
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+#@ be-themes
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:40
+#@ be-themes
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:48
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:295
+#@ be-themes
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:56
+#@ be-themes
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:64
+#@ be-themes
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:135
+#@ be-themes
+msgid "What's New"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:143
+#@ be-themes
+msgid "Changelog"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:147
+#@ be-themes
+msgid "Credits"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:164
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:333
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:471
+#, php-format
+#@ be-themes
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:167
+#, php-format
+#@ be-themes
+msgid "Thank you for updating to the latest version! Redux Framework %s is ready to <add description>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:169
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:300
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:338
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:476
+#: ../oshin/ReduxFramework/sample/sample-config.php:210
+#: ../oshin/functions/be-themes-options-config.php:212
+#, php-format
+#@ be-themes
+msgid "Version %s"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:174
+#@ be-themes
+msgid "Some Feature"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:178
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:182
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:195
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:199
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:203
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:208
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:221
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:225
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:230
+#@ be-themes
+msgid "Feature"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:190
+#@ be-themes
+msgid "Some feature"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:217
+#@ be-themes
+msgid "More Features"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:223
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:227
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:232
+#@ be-themes
+msgid "description"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:238
+#@ be-themes
+msgid "Additional Updates"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:242
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:246
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:252
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:256
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:262
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:266
+#@ be-themes
+msgid "Cool thing"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:244
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:248
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:254
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:258
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:264
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:268
+#@ be-themes
+msgid "cool thing description."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:277
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:316
+#@ be-themes
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:278
+#@ be-themes
+msgid "View the Full Changelog"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:298
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:336
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:474
+#, php-format
+#@ be-themes
+msgid "Thank you for updating to the latest version! Redux Framework %s is ready to make your <description>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:305
+#@ be-themes
+msgid "Full Changelog"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:342
+#@ be-themes
+msgid "Use the tips below to get started using Redux Framework. You'll be up and running in no time!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:345
+#@ be-themes
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:350
+#, php-format
+#@ be-themes
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:352
+#, php-format
+#@ be-themes
+msgid "The %s menu is your access point for all aspects of your Easy Digital Downloads product creation and setup. To create your first product, simply click Add New and then fill out the product details."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:354
+#@ be-themes
+msgid "Product Price"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:356
+#@ be-themes
+msgid "Products can have simple prices or variable prices if you wish to have more than one price point for a product. For a single price, simply enter the price. For multiple price points, click <em>Enable variable pricing</em> and enter the options."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:358
+#@ be-themes
+msgid "Download Files"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:360
+#@ be-themes
+msgid "Uploading the downloadable files is simple. Click <em>Upload File</em> in the Download Files section and choose your download file. To add more than one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:366
+#@ be-themes
+msgid "Display a Product Grid"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:373
+#@ be-themes
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:375
+#@ be-themes
+msgid "The [downloads] shortcode will display a product grid that works with any theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:377
+#@ be-themes
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:379
+#@ be-themes
+msgid "You can easily change the number of columns by adding the columns=\"x\" parameter:"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:385
+#@ be-themes
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:387
+#, php-format
+#@ be-themes
+msgid "The product grids can be customized in any way you wish and there is <a href=\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:392
+#@ be-themes
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:397
+#@ be-themes
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:399
+#@ be-themes
+msgid "With easily accessible shortcodes to display purchase buttons, you can add a Buy Now or Add to Cart button for any product anywhere on your site in seconds."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:401
+#@ be-themes
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:403
+#@ be-themes
+msgid "Purchase buttons can behave as either Add to Cart or Buy Now buttons. With Buy Now buttons customers are taken straight to PayPal, giving them the most frictionless purchasing experience possible."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:409
+#@ be-themes
+msgid "Need Help?"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:413
+#@ be-themes
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:415
+#@ be-themes
+msgid "We do our best to provide the best support we can. If you encounter a problem or have a question, post a question in the <a href=\"https://easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:417
+#@ be-themes
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:419
+#@ be-themes
+msgid "Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority Support forums</a> are there for customers that need faster and/or more in-depth assistance."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:425
+#@ be-themes
+msgid "Stay Up to Date"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:429
+#@ be-themes
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:431
+#@ be-themes
+msgid "New extensions that make Easy Digital Downloads even more powerful are released nearly every single week. Subscribe to the newsletter to stay up to date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:433
+#@ be-themes
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:435
+#@ be-themes
+msgid "<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear about the latest tutorial releases that explain how to take Easy Digital Downloads further."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:441
+#@ be-themes
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:445
+#@ be-themes
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:447
+#@ be-themes
+msgid "Add-on plugins are available that greatly extend the default functionality of Easy Digital Downloads. There are extensions for payment processors, such as Stripe and PayPal, extensions for newsletter integrations, and many, many more."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:449
+#@ be-themes
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:451
+#@ be-themes
+msgid "<a href=\"https://asydigitaldownloads.com/extensions\" target=\"_blank\">The Extensions store</a> has a list of all available extensions, including convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:480
+#@ be-themes
+msgid "Redux Framework is created by a worldwide team of developers who <something witty here>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:500
+#@ be-themes
+msgid "No valid changlog was found."
+msgstr ""
+
+#: ../oshin/ReduxFramework/ReduxCore/inc/welcome.php:539
+#, php-format
+#@ be-themes
+msgid "View %s"
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:306
+#@ be-themes
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:306
+#@ be-themes
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:407
+#@ be-themes
+msgid "Repo"
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:408
+#@ be-themes
+msgid "Generator"
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:409
+#@ be-themes
+msgid "Issues"
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:410
+#: ../oshin/ReduxFramework/sample/sample-config.php:1337
+#: ../oshin/ReduxFramework/sample/sample-config.php:1567
+#: ../oshin/ReduxFramework/sample/sample-config.php:1713
+#: ../oshin/functions/be-themes-options-config.php:2806
+#@ be-themes
+msgid "Documentation"
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:415
+#@ be-themes
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../oshin/ReduxFramework/class.redux-plugin.php:417
+#@ be-themes
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:55
+#: ../oshin/ReduxFramework/sample/sample-config.php:239
+#@ be-themes
+msgid "Home Settings"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:56
+#, php-format
+#@ be-themes
+msgid "Redux Framework was created with the developer in mind. It allows for any theme developer to have an advanced theme panel with most of the features a developer would need. For more information check out the Github repo at: %d"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:64
+#: ../oshin/ReduxFramework/sample/sample-config.php:248
+#@ be-themes
+msgid "Web Fonts"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:68
+#: ../oshin/ReduxFramework/sample/sample-config.php:252
+#: ../oshin/ReduxFramework/sample/sample-config.php:281
+#@ be-themes
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:69
+#: ../oshin/ReduxFramework/sample/sample-config.php:253
+#: ../oshin/ReduxFramework/sample/sample-config.php:282
+#: ../oshin/ReduxFramework/sample/sample-config.php:300
+#: ../oshin/ReduxFramework/sample/sample-config.php:308
+#@ be-themes
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:84
+#: ../oshin/ReduxFramework/sample/sample-config.php:1578 ../oshin/be-themes-options.php:86
+#: ../oshin/functions/be-themes-options-config.php:2817
+#@ be-themes
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:85
+#: ../oshin/ReduxFramework/sample/barebones-config.php:91
+#: ../oshin/ReduxFramework/sample/sample-config.php:1579
+#: ../oshin/ReduxFramework/sample/sample-config.php:1585 ../oshin/be-themes-options.php:87
+#: ../oshin/be-themes-options.php:92 ../oshin/functions/be-themes-options-config.php:2818
+#: ../oshin/functions/be-themes-options-config.php:2824
+#@ be-themes
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:90
+#: ../oshin/ReduxFramework/sample/sample-config.php:1584 ../oshin/be-themes-options.php:91
+#: ../oshin/functions/be-themes-options-config.php:2823
+#@ be-themes
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:95
+#: ../oshin/ReduxFramework/sample/sample-config.php:1589 ../oshin/be-themes-options.php:95
+#: ../oshin/functions/be-themes-options-config.php:2828
+#@ be-themes
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:118
+#: ../oshin/ReduxFramework/sample/barebones-config.php:119
+#: ../oshin/ReduxFramework/sample/sample-config.php:1612
+#: ../oshin/ReduxFramework/sample/sample-config.php:1613
+#@ be-themes
+msgid "Sample Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:236
+#: ../oshin/ReduxFramework/sample/sample-config.php:1758
+#: ../oshin/functions/be-themes-options-config.php:2948
+#, php-format
+#@ be-themes
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:238
+#: ../oshin/ReduxFramework/sample/sample-config.php:1760
+#: ../oshin/functions/be-themes-options-config.php:2950
+#@ be-themes
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/barebones-config.php:242
+#: ../oshin/ReduxFramework/sample/sample-config.php:1764
+#: ../oshin/functions/be-themes-options-config.php:2954
+#@ be-themes
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:108
+#: ../oshin/functions/be-themes-options-config.php:114
+#@ be-themes
+msgid "Section via hook"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:109
+#: ../oshin/functions/be-themes-options-config.php:115
+#@ be-themes
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:189
+#: ../oshin/functions/be-themes-options-config.php:194
+#, php-format
+#@ be-themes
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:209
+#: ../oshin/functions/be-themes-options-config.php:211
+#, php-format
+#@ be-themes
+msgid "By %s"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:211
+#: ../oshin/functions/be-themes-options-config.php:213
+#@ be-themes
+msgid "Tags"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:216
+#: ../oshin/functions/be-themes-options-config.php:218
+#, php-format
+#@ be-themes
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:216
+#: ../oshin/functions/be-themes-options-config.php:218
+#@ be-themes
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:240
+#@ be-themes
+msgid "Redux Framework was created with the developer in mind. It allows for any theme developer to have an advanced theme panel with most of the features a developer would need. For more information check out the Github repo at: <a href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github.com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:262
+#@ be-themes
+msgid "Section Show"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:263
+#: ../oshin/ReduxFramework/sample/sample-config.php:270
+#@ be-themes
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:269
+#@ be-themes
+msgid "Media Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:278
+#@ be-themes
+msgid "Media w/ URL"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:298
+#@ be-themes
+msgid "Media w/o URL"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:299
+#: ../oshin/ReduxFramework/sample/sample-config.php:307
+#@ be-themes
+msgid "This represents the minimalistic view. It does not have the preview box or the display URL in an input box. "
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:306
+#@ be-themes
+msgid "Media No Preview"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:314
+#@ be-themes
+msgid "Create a new Gallery by selecting existing or uploading new images using the WordPress native uploader"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:315
+#: ../oshin/ReduxFramework/sample/sample-config.php:702
+#: ../oshin/ReduxFramework/sample/sample-config.php:713
+#: ../oshin/ReduxFramework/sample/sample-config.php:731
+#: ../oshin/ReduxFramework/sample/sample-config.php:829
+#: ../oshin/ReduxFramework/sample/sample-config.php:843
+#: ../oshin/ReduxFramework/sample/sample-config.php:852
+#: ../oshin/ReduxFramework/sample/sample-config.php:859
+#: ../oshin/ReduxFramework/sample/sample-config.php:872
+#: ../oshin/ReduxFramework/sample/sample-config.php:881
+#: ../oshin/ReduxFramework/sample/sample-config.php:890
+#: ../oshin/ReduxFramework/sample/sample-config.php:912
+#: ../oshin/ReduxFramework/sample/sample-config.php:925
+#: ../oshin/ReduxFramework/sample/sample-config.php:934
+#: ../oshin/ReduxFramework/sample/sample-config.php:949
+#: ../oshin/ReduxFramework/sample/sample-config.php:958
+#: ../oshin/ReduxFramework/sample/sample-config.php:967
+#: ../oshin/ReduxFramework/sample/sample-config.php:977
+#: ../oshin/ReduxFramework/sample/sample-config.php:993
+#: ../oshin/ReduxFramework/sample/sample-config.php:1001
+#: ../oshin/ReduxFramework/sample/sample-config.php:1020
+#: ../oshin/ReduxFramework/sample/sample-config.php:1028
+#: ../oshin/ReduxFramework/sample/sample-config.php:1036
+#: ../oshin/ReduxFramework/sample/sample-config.php:1050
+#: ../oshin/ReduxFramework/sample/sample-config.php:1058
+#: ../oshin/ReduxFramework/sample/sample-config.php:1108
+#: ../oshin/ReduxFramework/sample/sample-config.php:1121
+#: ../oshin/ReduxFramework/sample/sample-config.php:1141
+#: ../oshin/ReduxFramework/sample/sample-config.php:1156
+#: ../oshin/ReduxFramework/sample/sample-config.php:1189
+#: ../oshin/ReduxFramework/sample/sample-config.php:1198
+#: ../oshin/ReduxFramework/sample/sample-config.php:1206
+#: ../oshin/ReduxFramework/sample/sample-config.php:1215
+#: ../oshin/ReduxFramework/sample/sample-config.php:1223
+#: ../oshin/ReduxFramework/sample/sample-config.php:1232
+#: ../oshin/ReduxFramework/sample/sample-config.php:1240
+#: ../oshin/ReduxFramework/sample/sample-config.php:1249
+#: ../oshin/ReduxFramework/sample/sample-config.php:1257
+#: ../oshin/ReduxFramework/sample/sample-config.php:1266
+#: ../oshin/ReduxFramework/sample/sample-config.php:1276
+#: ../oshin/ReduxFramework/sample/sample-config.php:1284
+#: ../oshin/ReduxFramework/sample/sample-config.php:1293
+#: ../oshin/ReduxFramework/sample/sample-config.php:1301
+#: ../oshin/ReduxFramework/sample/sample-config.php:1310
+#: ../oshin/ReduxFramework/sample/sample-config.php:1360
+#: ../oshin/ReduxFramework/sample/sample-config.php:1371
+#: ../oshin/ReduxFramework/sample/sample-config.php:1385
+#@ be-themes
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:320
+#@ be-themes
+msgid "Slider Example 1"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:321
+#@ be-themes
+msgid "This slider displays the value as a label."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:322
+#@ be-themes
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:332
+#@ be-themes
+msgid "Slider Example 2 with Steps (5)"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:333
+#@ be-themes
+msgid "This example displays the value in a text box"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:334
+#@ be-themes
+msgid "Slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:344
+#@ be-themes
+msgid "Slider Example 3 with two sliders"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:345
+#@ be-themes
+msgid "This example displays the values in select boxes"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:346
+#@ be-themes
+msgid "Slider description. Min: 0, max: 500, step: 5, slider 1 default value: 100, slider 2 default value: 300"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:360
+#@ be-themes
+msgid "Slider Example 4 with float values"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:361
+#@ be-themes
+msgid "This example displays float values"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:362
+#@ be-themes
+msgid "Slider description. Min: 0, max: 1, step: .1, default value: .5"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:373
+#@ be-themes
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:374
+#@ be-themes
+msgid "JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:383
+#@ be-themes
+msgid "Switch On"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:384
+#: ../oshin/ReduxFramework/sample/sample-config.php:391
+#@ be-themes
+msgid "Look, it's on!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:390
+#@ be-themes
+msgid "Switch Off"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:398
+#@ be-themes
+msgid "Switch - Nested Children, Enable to show"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:399
+#@ be-themes
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:408
+#@ be-themes
+msgid "Switch - This and the next switch required for patterns to show"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:409
+#: ../oshin/ReduxFramework/sample/sample-config.php:418
+#@ be-themes
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:410
+#: ../oshin/ReduxFramework/sample/sample-config.php:419
+#@ be-themes
+msgid "Items set with a fold to this ID will hide unless this is set to the appropriate value."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:417
+#@ be-themes
+msgid "Switch2 - Enable the above switch and this one for patterns to show"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:430
+#@ be-themes
+msgid "Images Option (with pattern=>true)"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:431
+#@ be-themes
+msgid "Select a background pattern."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:477
+#@ be-themes
+msgid "Slides Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:478
+#@ be-themes
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:479
+#@ be-themes
+msgid "This field will store all slides values into a multidimensional array to use into a foreach loop."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:481
+#@ be-themes
+msgid "This is a title"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:482
+#@ be-themes
+msgid "Description Here"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:483
+#@ be-themes
+msgid "Give us a link!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:490
+#@ be-themes
+msgid "Preset"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:491
+#: ../oshin/ReduxFramework/sample/sample-config.php:493
+#@ be-themes
+msgid "This allows you to set a json string or array to override multiple preferences in your theme."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:514 ../oshin/be-themes-options.php:355
+#: ../oshin/functions/be-themes-options-config.php:388
+#@ be-themes
+msgid "Typography"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:536
+#@ be-themes
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:555
+#: ../oshin/functions/be-themes-options-config.php:245
+#@ be-themes
+msgid "General Settings"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:561
+#@ be-themes
+msgid "Main Layout"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:562
+#@ be-themes
+msgid "Select main content and sidebar alignment. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:595
+#@ be-themes
+msgid "Tracking Code"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:596
+#@ be-themes
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:603
+#@ be-themes
+msgid "CSS Code"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:604
+#@ be-themes
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:635
+#: ../oshin/functions/be-themes-options-config.php:634
+#@ be-themes
+msgid "Footer Text"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:636
+#@ be-themes
+msgid "You can use the following shortcodes in your footer text: [wp-url] [site-url] [theme-url] [login-url] [logout-url] [site-title] [site-tagline] [current-year]"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:651
+#@ be-themes
+msgid "Styling Options"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:657
+#@ be-themes
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:658
+#@ be-themes
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:666
+#@ be-themes
+msgid "Body Background Color"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:667
+#@ be-themes
+msgid "Pick a background color for the theme (default: #fff)."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:675
+#@ be-themes
+msgid "Body Background"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:676
+#@ be-themes
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:682
+#@ be-themes
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:683
+#@ be-themes
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:690
+#@ be-themes
+msgid "Color RGBA - BETA"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:691
+#@ be-themes
+msgid "Gives you the RGBA color. Still quite experimental. Use at your own risk."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:700
+#@ be-themes
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:701
+#: ../oshin/ReduxFramework/sample/sample-config.php:712
+#: ../oshin/ReduxFramework/sample/sample-config.php:728
+#@ be-themes
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:711
+#@ be-themes
+msgid "Links Color Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:727
+#@ be-themes
+msgid "Header Border Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:757
+#@ be-themes
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:758
+#@ be-themes
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:759
+#@ be-themes
+msgid "You can enable or disable any piece of this field. Top, Right, Bottom, Left, or Units."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:772
+#@ be-themes
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:773
+#@ be-themes
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:774
+#@ be-themes
+msgid "You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:783
+#@ be-themes
+msgid "Body Font"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:784
+#@ be-themes
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:796 ../oshin/be-themes-options.php:212
+#: ../oshin/functions/be-themes-options-config.php:319
+#@ be-themes
+msgid "Custom CSS"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:797
+#@ be-themes
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:798
+#@ be-themes
+msgid "This field is even CSS validated!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:804
+#@ be-themes
+msgid "Custom HTML"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:805
+#@ be-themes
+msgid "Just like a text box widget."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:806
+#@ be-themes
+msgid "This field is even HTML validated!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:820
+#@ be-themes
+msgid "Field Validation"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:821
+#@ be-themes
+msgid "Validate ALL fields within Redux."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:822
+#@ be-themes
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed2</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:827
+#@ be-themes
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:828
+#@ be-themes
+msgid "This is a little space under the Field Title in the Options table, additional info is good in here."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:841
+#@ be-themes
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:842
+#@ be-themes
+msgid "You can also pass an options array if you want. Set the default to whatever you like."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:849
+#@ be-themes
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:851
+#@ be-themes
+msgid "If you enter an invalid color it will be removed. Try using the text \"blue\" as a color.  ;)"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:857
+#@ be-themes
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:858
+#@ be-themes
+msgid "This must be a URL."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:870
+#@ be-themes
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:871
+#@ be-themes
+msgid "This must be numeric."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:879
+#@ be-themes
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:880
+#@ be-themes
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:888
+#@ be-themes
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:889
+#@ be-themes
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:897
+#@ be-themes
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:898
+#: ../oshin/ReduxFramework/sample/sample-config.php:911
+#: ../oshin/ReduxFramework/sample/sample-config.php:924
+#: ../oshin/ReduxFramework/sample/sample-config.php:933
+#@ be-themes
+msgid "You decide."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:899
+#@ be-themes
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:910
+#@ be-themes
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:923
+#@ be-themes
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:932
+#@ be-themes
+msgid "Text Option - Custom Callback Validated - Class"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:947
+#@ be-themes
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:948
+#@ be-themes
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:956
+#@ be-themes
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:957
+#@ be-themes
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:965
+#@ be-themes
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:966
+#@ be-themes
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:975
+#@ be-themes
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:976
+#@ be-themes
+msgid "JS will be escaped"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:985
+#@ be-themes
+msgid "Radio/Checkbox Fields"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:986
+#: ../oshin/ReduxFramework/sample/sample-config.php:1134
+#: ../oshin/ReduxFramework/sample/sample-config.php:1353
+#: ../oshin/ReduxFramework/sample/sample-config.php:1554
+#: ../oshin/functions/be-themes-options-config.php:2793
+#@ be-themes
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:991
+#@ be-themes
+msgid "Checkbox Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:992
+#: ../oshin/ReduxFramework/sample/sample-config.php:1000
+#: ../oshin/ReduxFramework/sample/sample-config.php:1019
+#: ../oshin/ReduxFramework/sample/sample-config.php:1027
+#: ../oshin/ReduxFramework/sample/sample-config.php:1035
+#: ../oshin/ReduxFramework/sample/sample-config.php:1049
+#: ../oshin/ReduxFramework/sample/sample-config.php:1057
+#: ../oshin/ReduxFramework/sample/sample-config.php:1072
+#: ../oshin/ReduxFramework/sample/sample-config.php:1140
+#: ../oshin/ReduxFramework/sample/sample-config.php:1155
+#: ../oshin/ReduxFramework/sample/sample-config.php:1188
+#: ../oshin/ReduxFramework/sample/sample-config.php:1197
+#: ../oshin/ReduxFramework/sample/sample-config.php:1205
+#: ../oshin/ReduxFramework/sample/sample-config.php:1214
+#: ../oshin/ReduxFramework/sample/sample-config.php:1222
+#: ../oshin/ReduxFramework/sample/sample-config.php:1231
+#: ../oshin/ReduxFramework/sample/sample-config.php:1239
+#: ../oshin/ReduxFramework/sample/sample-config.php:1248
+#: ../oshin/ReduxFramework/sample/sample-config.php:1256
+#: ../oshin/ReduxFramework/sample/sample-config.php:1265
+#: ../oshin/ReduxFramework/sample/sample-config.php:1283
+#: ../oshin/ReduxFramework/sample/sample-config.php:1292
+#: ../oshin/ReduxFramework/sample/sample-config.php:1300
+#: ../oshin/ReduxFramework/sample/sample-config.php:1309
+#: ../oshin/ReduxFramework/sample/sample-config.php:1317
+#: ../oshin/ReduxFramework/sample/sample-config.php:1359
+#: ../oshin/ReduxFramework/sample/sample-config.php:1370
+#: ../oshin/ReduxFramework/sample/sample-config.php:1384
+#@ be-themes
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:999
+#@ be-themes
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1018
+#: ../oshin/ReduxFramework/sample/sample-config.php:1048
+#@ be-themes
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1026
+#@ be-themes
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1034
+#@ be-themes
+msgid "Radio Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1056
+#@ be-themes
+msgid "Images Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1071
+#@ be-themes
+msgid "Images Option for Layout"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1073
+#@ be-themes
+msgid "This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1106
+#: ../oshin/ReduxFramework/sample/sample-config.php:1119
+#@ be-themes
+msgid "Sortable Text Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1107
+#: ../oshin/ReduxFramework/sample/sample-config.php:1120
+#@ be-themes
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1133
+#@ be-themes
+msgid "Select Fields"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1139
+#@ be-themes
+msgid "Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1154
+#@ be-themes
+msgid "Multi Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1169
+#@ be-themes
+msgid "Select Image"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1170
+#@ be-themes
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1181
+#@ be-themes
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1187
+#@ be-themes
+msgid "Categories Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1196
+#@ be-themes
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1204
+#@ be-themes
+msgid "Pages Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1213
+#@ be-themes
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1221
+#@ be-themes
+msgid "Tags Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1230
+#@ be-themes
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1238
+#@ be-themes
+msgid "Menus Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1247
+#@ be-themes
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1255
+#@ be-themes
+msgid "Post Type Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1264
+#@ be-themes
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1274
+#@ be-themes
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1275
+#@ be-themes
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1282
+#@ be-themes
+msgid "Posts Select Option2"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1291
+#@ be-themes
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1299
+#@ be-themes
+msgid "User Role Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1308
+#@ be-themes
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1316
+#@ be-themes
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1318
+#@ be-themes
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1324
+#@ be-themes
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1325
+#@ be-themes
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1326
+#@ be-themes
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1330
+#@ be-themes
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1352
+#@ be-themes
+msgid "Additional Fields"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1358
+#@ be-themes
+msgid "Date Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1369
+#@ be-themes
+msgid "Button Set Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1383
+#@ be-themes
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1398
+#@ be-themes
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1404
+#: ../oshin/ReduxFramework/sample/sample-config.php:1412
+#: ../oshin/ReduxFramework/sample/sample-config.php:1420
+#: ../oshin/ReduxFramework/sample/sample-config.php:1434
+#: ../oshin/ReduxFramework/sample/sample-config.php:1442
+#: ../oshin/ReduxFramework/sample/sample-config.php:1451
+#: ../oshin/ReduxFramework/sample/sample-config.php:1460
+#: ../oshin/ReduxFramework/sample/sample-config.php:1469
+#@ be-themes
+msgid "This is a title."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1405
+#@ be-themes
+msgid "This is an info field with the warning style applied and a header."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1413
+#@ be-themes
+msgid "This is an info field with the success style applied, a header and an icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1421
+#@ be-themes
+msgid "This is an info field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1435
+#@ be-themes
+msgid "This is an info notice field with the normal style applied, a header and an icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1443
+#@ be-themes
+msgid "This is an info notice field with the info style applied, a header and an icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1452
+#@ be-themes
+msgid "This is an info notice field with the warning style applied, a header and an icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1461
+#@ be-themes
+msgid "This is an info notice field with the success style applied, a header and an icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1470
+#@ be-themes
+msgid "This is an notice field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1475
+#@ be-themes
+msgid "Custom Field Callback"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1476
+#: ../oshin/ReduxFramework/sample/sample-config.php:1484
+#@ be-themes
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1477
+#: ../oshin/ReduxFramework/sample/sample-config.php:1485
+#@ be-themes
+msgid "This is created with a callback function, so anything goes in this field. Make sure to define the function though."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1483
+#@ be-themes
+msgid "Custom Field Callback - Class"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1493
+#: ../oshin/ReduxFramework/sample/sample-config.php:1517
+#@ be-themes
+msgid "Customizer Only Option"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1494
+#: ../oshin/ReduxFramework/sample/sample-config.php:1518
+#@ be-themes
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1495
+#: ../oshin/ReduxFramework/sample/sample-config.php:1519
+#@ be-themes
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1510
+#@ be-themes
+msgid "Customizer Only"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1511
+#@ be-themes
+msgid "<p class=\"description\">This Section should be visible only in Customizer</p>"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1534
+#: ../oshin/functions/be-themes-options-config.php:2777
+#@ be-themes
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1553
+#: ../oshin/functions/be-themes-options-config.php:2792
+#@ be-themes
+msgid "Theme Information"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1719
+#@ be-themes
+msgid "Support"
+msgstr ""
+
+#: ../oshin/ReduxFramework/sample/sample-config.php:1725
+#@ be-themes
+msgid "Extensions"
+msgstr ""
+
+#: ../oshin/ajax-handler.php:19
+#@ be-themes
+msgid "All fields are required"
+msgstr ""
+
+#: ../oshin/ajax-handler.php:23
+#@ be-themes
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: ../oshin/ajax-handler.php:36
+#@ be-themes
+msgid "Your message was sent sucessfully"
+msgstr ""
+
+#: ../oshin/archive.php:48 ../oshin/blog.php:62 ../oshin/category.php:48 ../oshin/index.php:54
+#: ../oshin/search.php:49 ../oshin/tag.php:48 ../oshin/taxonomy-portfolio_categories.php:47
+#: ../oshin/taxonomy-portfolio_tags.php:47
+#@ be-themes
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:23
+#@ be-themes
+msgid "Client Name"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:30
+#@ be-themes
+msgid "Project Date"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:37
+#@ be-themes
+msgid "Project URL"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:43
+#@ be-themes
+msgid "Link Thumbnail To"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:54
+#@ be-themes
+msgid "External URL"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:60
+#@ be-themes
+msgid "Show Porfolio Title and Navigation Bar"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:66
+#@ be-themes
+msgid "Traverse within Category"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:72
+#@ be-themes
+msgid "Main Portfolio Page"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:78
+#@ be-themes
+msgid "Double Width"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:84
+#@ be-themes
+msgid "Double Height"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:90 ../oshin/be-themes-metabox.php:249
+#: ../oshin/be-themes-metabox.php:699 ../oshin/be-themes-metabox.php:815
+#@ be-themes
+msgid "Overlay Background Color"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:97 ../oshin/be-themes-metabox.php:706
+#: ../oshin/be-themes-metabox.php:822
+#@ be-themes
+msgid "Overlay Background Color Opacity"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:104
+#@ be-themes
+msgid "Overlay Title Color"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:111
+#@ be-themes
+msgid "Overlay Categories Color"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:118
+#@ be-themes
+msgid "Portfolio Single Page Style"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:139
+#@ be-themes
+msgid "Slider Images"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:146
+#@ be-themes
+msgid "Animation Style"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:211 ../oshin/be-themes-metabox.php:661
+#: ../oshin/be-themes-metabox.php:777
+#@ be-themes
+msgid "Show Information box"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:217
+#@ be-themes
+msgid "Show Thumbnails bar"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:223
+#@ be-themes
+msgid "Enable Normal Scroll <br/><br/><h5><span>MORE SETTINGS FOR HORIZONTAL CAROUSEL SLIDER</span></h5>"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:229 ../oshin/be-themes-metabox.php:679
+#: ../oshin/be-themes-metabox.php:802
+#@ be-themes
+msgid "Gutter Width"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:236
+#@ be-themes
+msgid "Slider Height"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:243 ../oshin/be-themes-metabox.php:693
+#: ../oshin/be-themes-metabox.php:809
+#@ be-themes
+msgid "Enable Overlay"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:256
+#@ be-themes
+msgid "Overlay Background Opacity"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:272
+#@ be-themes
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:284
+#@ be-themes
+msgid "Sidebar"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:300 ../oshin/be-themes-options.php:905
+#: ../oshin/functions/be-themes-options-config.php:1577
+#@ be-themes
+msgid "Blog Style"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:315
+#@ be-themes
+msgid "Blog Column If Masonry Layout"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:323
+#@ be-themes
+msgid "Blog Gutter Style If Masonry Layout"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:330 ../oshin/functions/be-themes-options-config.php:1668
+#@ be-themes
+msgid "Blog Pagination Style"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:337
+#@ be-themes
+msgid "Blog Gutter Width If Masonry Layout"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:352 ../oshin/be-themes-options.php:932
+#: ../oshin/functions/be-themes-options-config.php:1685
+#@ be-themes
+msgid "Show Bottom Widgets"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:360
+#@ be-themes
+msgid "Show Footer"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:368
+#@ be-themes
+msgid "Scroll To Sections"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:374
+#@ be-themes
+msgid "Single Page Version"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:389 ../oshin/be-themes-options.php:1023
+#: ../oshin/be-themes-options.php:1241
+#@ be-themes
+msgid "Header Hero Section Type"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:397 ../oshin/be-themes-options.php:1032
+#: ../oshin/be-themes-options.php:1250
+#@ be-themes
+msgid "Add Revolution Slider"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:404
+#@ be-themes
+msgid "Header BG"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:411 ../oshin/functions/be-themes-options-config.php:2424
+#: ../oshin/functions/be-themes-options-config.php:2616
+#@ be-themes
+msgid "Sticky Header"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:419
+#@ be-themes
+msgid "Color Scheme<br><i style=\"color:red;\">Applicable only for Transparent/Semi Transparent header</i></br>"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:426
+#@ be-themes
+msgid "Position <br><i style=\"color:red;\">Applicable only for non-transparent header</i></br>"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:434
+#@ be-themes
+msgid "Show With Header<br><i style=\"color:red;\">Applicable only if header is non-transparent, Hero Section position is Before Header and no Custom Height is defined</i></br>"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:442
+#@ be-themes
+msgid "Custom Height"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:448 ../oshin/functions/be-themes-options-config.php:1745
+#: ../oshin/functions/be-themes-options-config.php:1813
+#@ be-themes
+msgid "Background Color"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:455
+#@ be-themes
+msgid "Background Image"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:486
+#@ be-themes
+msgid "Center Scale Image to occupy container"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:492 ../oshin/functions/be-themes-options-config.php:2529
+#@ be-themes
+msgid "Background Animation"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:506 ../oshin/functions/be-themes-options-config.php:2490
+#: ../oshin/functions/be-themes-options-config.php:2682
+#@ be-themes
+msgid "Enable Background Video"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:512 ../oshin/functions/be-themes-options-config.php:2507
+#: ../oshin/functions/be-themes-options-config.php:2699
+#@ be-themes
+msgid "Video .MP4 Video File"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:518
+#@ be-themes
+msgid "Video .OGG Video File"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:524
+#@ be-themes
+msgid "Video .Webm Video File"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:530 ../oshin/be-themes-options.php:1183
+#: ../oshin/be-themes-options.php:1401 ../oshin/functions/be-themes-options-config.php:2538
+#: ../oshin/functions/be-themes-options-config.php:2737
+#@ be-themes
+msgid "Hero Section Enable Background Overlay"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:536 ../oshin/functions/be-themes-options-config.php:2546
+#: ../oshin/functions/be-themes-options-config.php:2745
+#@ be-themes
+msgid "Background Overlay Color"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:543
+#@ be-themes
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:549
+#@ be-themes
+msgid "Container Wrap"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:557
+#@ be-themes
+msgid "Content"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:564
+#@ be-themes
+msgid "Section Navigation Target Id"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:570
+#@ be-themes
+msgid "Section Navigation Target Icon Color"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:577
+#@ be-themes
+msgid "Section Navigation Target Icon"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:597
+#@ be-themes
+msgid "Youtube / Vimeo Video Url"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:604
+#@ be-themes
+msgid "Audio Embed Code Or Link to an Audio File"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:611
+#@ be-themes
+msgid "Link Post Format URL"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:618
+#@ be-themes
+msgid "Quote Post Format Author"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:625
+#@ be-themes
+msgid "Gallery Post Format Images"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:641
+#@ be-themes
+msgid "Gallery Style"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:654
+#@ be-themes
+msgid "Gallery Images"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:667 ../oshin/be-themes-metabox.php:783
+#@ be-themes
+msgid "Show Carousel bar"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:673 ../oshin/be-themes-metabox.php:789
+#@ be-themes
+msgid "Enable Normal Scroll<br/><br/><h5><span>MORE SETTINGS FOR HORIZONTAL CAROUSEL SLIDER</span></h5>"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:741
+#@ be-themes
+msgid "Portfolio Style"
+msgstr ""
+
+#: ../oshin/be-themes-metabox.php:753
+#@ be-themes
+msgid "Dual Carousel Slider Animation Style"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:23
+#@ be-themes
+msgid "A Section added by hook"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:24
+#@ be-themes
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:59
+#@ be-themes
+msgid "<p>Welcome to BE Themes Options panel. You will find that its very simple to do what you want and yet powerful enough to do whatever you want, with our wide variety of options. </p>"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:69 ../oshin/be-themes-options.php:72
+#@ be-themes
+msgid "BE Theme Options"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:136
+#@ be-themes
+msgid "General"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:137 ../oshin/be-themes-options.php:356
+#: ../oshin/be-themes-options.php:877 ../oshin/be-themes-options.php:892
+#@ be-themes
+msgid "<p class=\"description\"></p>"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:142
+#@ be-themes
+msgid "Status of the Website"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:144
+#@ be-themes
+msgid "It is important to set this to \"deploy\" after you have finished playing with options panel and ready to launch the website. It will help us cache the css and optimize performance of the website"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:151 ../oshin/functions/be-themes-options-config.php:261
+#@ be-themes
+msgid "Enable Pagebuilder ?"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:152
+#@ be-themes
+msgid "Check this box if you would like to use the page builder for constructing your pages and portfolio posts. Page Builder is not available for blog posts. You can still disable the page builder per page if you would like to use the default wordpress content editor"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:159
+#@ be-themes
+msgid "Your Logo"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:161 ../oshin/functions/be-themes-options-config.php:271
+#@ be-themes
+msgid "Please upload your logo here."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:166
+#@ be-themes
+msgid "Logo on Transparent Header Dark Scheme"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:168 ../oshin/functions/be-themes-options-config.php:285
+#@ be-themes
+msgid "Please upload the logo that needs to be displayed in transparent header sections."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:173
+#@ be-themes
+msgid "Logo on Transparent Header Light Scheme"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:175
+#@ be-themes
+msgid "Please upload the logo that needs to be displayed in transparent header sections with light backgrounds."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:180 ../oshin/functions/be-themes-options-config.php:297
+#@ be-themes
+msgid "Logo on Sidebar"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:182 ../oshin/functions/be-themes-options-config.php:299
+#@ be-themes
+msgid "Please upload the logo that needs to be displayed in the slidebar"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:187 ../oshin/functions/be-themes-options-config.php:304
+#@ be-themes
+msgid "Your Favicon"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:189 ../oshin/functions/be-themes-options-config.php:306
+#@ be-themes
+msgid "Please upload a favicon here."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:194
+#@ be-themes
+msgid "Copyright Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:203 ../oshin/functions/be-themes-options-config.php:311
+#@ be-themes
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:205 ../oshin/functions/be-themes-options-config.php:313
+#@ be-themes
+msgid "Please enter your Google analytics tracking ID here."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:214 ../oshin/functions/be-themes-options-config.php:321
+#@ be-themes
+msgid "Please add your custom CSS here."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:221 ../oshin/functions/be-themes-options-config.php:328
+#@ be-themes
+msgid "Custom Javascript"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:223 ../oshin/functions/be-themes-options-config.php:330
+#@ be-themes
+msgid "Please add your custom js code here."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:230 ../oshin/functions/be-themes-options-config.php:339
+#: ../oshin/functions/be-themes-options-config.php:2155
+#: ../oshin/functions/be-themes-options-config.php:2222
+#@ be-themes
+msgid "Background"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:231
+#@ be-themes
+msgid "<p class=\"description\">Control the Appearance of the site from this tab by uploading your own patterns and images or by choosing from one of the plethora of presets available</p>"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:237
+#@ be-themes
+msgid "Header"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:254 ../oshin/functions/be-themes-options-config.php:346
+#@ be-themes
+msgid "Body"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:271 ../oshin/functions/be-themes-options-config.php:356
+#@ be-themes
+msgid "Content Area"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:288 ../oshin/functions/be-themes-options-config.php:366
+#@ be-themes
+msgid "Bottom Widget Area"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:305 ../oshin/functions/be-themes-options-config.php:1423
+#@ be-themes
+msgid "Footer"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:322 ../oshin/functions/be-themes-options-config.php:376
+#@ be-themes
+msgid "Header Title Module"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:339
+#@ be-themes
+msgid "Submenu & Mobile Menu Background Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:347
+#@ be-themes
+msgid "Sidebar menu / Left Header Background Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:362 ../oshin/functions/be-themes-options-config.php:395
+#@ be-themes
+msgid "H1"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:363 ../oshin/functions/be-themes-options-config.php:396
+#@ be-themes
+msgid "Heading Tag 1"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:380 ../oshin/functions/be-themes-options-config.php:412
+#@ be-themes
+msgid "H2"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:381 ../oshin/functions/be-themes-options-config.php:413
+#@ be-themes
+msgid "Heading Tag 2"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:398 ../oshin/functions/be-themes-options-config.php:429
+#@ be-themes
+msgid "H3"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:399 ../oshin/functions/be-themes-options-config.php:430
+#@ be-themes
+msgid "Heading Tag 3"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:416 ../oshin/functions/be-themes-options-config.php:446
+#@ be-themes
+msgid "H4"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:417 ../oshin/functions/be-themes-options-config.php:447
+#@ be-themes
+msgid "Heading Tag 4"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:434 ../oshin/functions/be-themes-options-config.php:463
+#@ be-themes
+msgid "H5"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:435 ../oshin/functions/be-themes-options-config.php:464
+#@ be-themes
+msgid "Heading Tag 5"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:452 ../oshin/functions/be-themes-options-config.php:480
+#@ be-themes
+msgid "H6"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:453 ../oshin/functions/be-themes-options-config.php:481
+#@ be-themes
+msgid "Heading Tag 6"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:470 ../oshin/functions/be-themes-options-config.php:515
+#@ be-themes
+msgid "Body Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:487 ../oshin/functions/be-themes-options-config.php:532
+#@ be-themes
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:505 ../oshin/functions/be-themes-options-config.php:549
+#@ be-themes
+msgid "Sidebar Widget Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:522
+#@ be-themes
+msgid "Footer Widget Title"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:540
+#@ be-themes
+msgid "Footer Widget Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:557
+#@ be-themes
+msgid "Slidebar Menu Widget Title"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:575
+#@ be-themes
+msgid "Slidebar Menu Widget Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:592
+#@ be-themes
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:609 ../oshin/functions/be-themes-options-config.php:651
+#@ be-themes
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:626
+#@ be-themes
+msgid "Font Family of Buttons"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:634
+#@ be-themes
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:652
+#@ be-themes
+msgid "Navigation Submenu & Mobile Menu Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:669 ../oshin/functions/be-themes-options-config.php:685
+#@ be-themes
+msgid "Sidebar Menu Text"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:686 ../oshin/functions/be-themes-options-config.php:753
+#@ be-themes
+msgid "Page Title Module"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:687 ../oshin/functions/be-themes-options-config.php:754
+#@ be-themes
+msgid "Page Title Module Title"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:706 ../oshin/be-themes-options.php:712
+#: ../oshin/functions/be-themes-options-config.php:780 ../oshin/meta-box/demo/image-select.php:10
+#@ be-themes
+msgid "Layout"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:707 ../oshin/be-themes-options.php:814
+#: ../oshin/be-themes-options.php:986
+#@ be-themes
+msgid "<p class=\"description\">"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:724 ../oshin/functions/be-themes-options-config.php:1002
+#@ be-themes
+msgid "Number of Columns in Bottom Widget Area"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:736 ../oshin/functions/be-themes-options-config.php:2607
+#@ be-themes
+msgid "Header Style"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:744 ../oshin/functions/be-themes-options-config.php:816
+#@ be-themes
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:752
+#@ be-themes
+msgid "Show Search in Header"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:760
+#@ be-themes
+msgid "Show Cart in Header"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:768 ../oshin/functions/be-themes-options-config.php:839
+#@ be-themes
+msgid "Display Comments on Pages"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:776
+#@ be-themes
+msgid "Show Main Navigation"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:785
+#@ be-themes
+msgid "Show Slidebar"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:794 ../oshin/functions/be-themes-options-config.php:994
+#@ be-themes
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:802
+#@ be-themes
+msgid "Remove Smooth Scroll"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:813 ../oshin/functions/be-themes-options-config.php:1506
+#@ be-themes
+msgid "Colors"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:819 ../oshin/functions/be-themes-options-config.php:1512
+#@ be-themes
+msgid "Color Scheme"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:827
+#@ be-themes
+msgid "Text Color on a background which has the above Color Scheme"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:835 ../oshin/functions/be-themes-options-config.php:1528
+#@ be-themes
+msgid "Secondary Background Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:843 ../oshin/functions/be-themes-options-config.php:1536
+#@ be-themes
+msgid "Secondary Text Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:851 ../oshin/functions/be-themes-options-config.php:1544
+#@ be-themes
+msgid "Secondary Border Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:859 ../oshin/functions/be-themes-options-config.php:1270
+#@ be-themes
+msgid "Header Cart Number Background Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:867 ../oshin/functions/be-themes-options-config.php:1278
+#@ be-themes
+msgid "Header Cart Number Text Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:876 ../oshin/functions/be-themes-options-config.php:2286
+#@ be-themes
+msgid "Contact Settings"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:882 ../oshin/functions/be-themes-options-config.php:2292
+#@ be-themes
+msgid "Email Address"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:884 ../oshin/functions/be-themes-options-config.php:2294
+#@ be-themes
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../oshin/be-themes-options.php:891 ../oshin/functions/be-themes-options-config.php:1563
+#: ../oshin/functions/be-themes-options-config.php:1564
+#@ be-themes
+msgid "Blog Settings"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:897
+#@ be-themes
+msgid "Thumbnail Open to Lightbox"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:914 ../oshin/functions/be-themes-options-config.php:1641
+#@ be-themes
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:923 ../oshin/functions/be-themes-options-config.php:1650
+#@ be-themes
+msgid "Blog Column"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:924 ../oshin/functions/be-themes-options-config.php:1651
+#: ../oshin/functions/be-themes-options-config.php:1660
+#: ../oshin/functions/be-themes-options-config.php:1669
+#: ../oshin/functions/be-themes-options-config.php:1678
+#@ be-themes
+msgid "Affects only Masonry Layout"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:943 ../oshin/functions/be-themes-options-config.php:1714
+#: ../oshin/functions/be-themes-options-config.php:1715
+#@ be-themes
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:944
+#@ be-themes
+msgid "<p class=\"description\">Portfolio Taxonomy Settings</p>"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:949 ../oshin/functions/be-themes-options-config.php:1883
+#@ be-themes
+msgid "Portfolio Taxonomy Pages Style"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:958 ../oshin/functions/be-themes-options-config.php:1892
+#@ be-themes
+msgid "Portfolio Portfolio Taxonomy Pages Column"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:967 ../oshin/functions/be-themes-options-config.php:1901
+#@ be-themes
+msgid "Portfolio Taxonomy Pages hover Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:975
+#@ be-themes
+msgid "Portfolio Taxonomy Pages hover Color Opacity"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:985 ../oshin/functions/be-themes-options-config.php:2075
+#: ../oshin/functions/helpers.php:719
+#@ be-themes
+msgid "Shop"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:991
+#@ be-themes
+msgid "Shop with Sidebar ?"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:999 ../oshin/functions/be-themes-options-config.php:2098
+#@ be-themes
+msgid "Number of products per page"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1008
+#@ be-themes
+msgid "Single blog Hero Section"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1009
+#@ be-themes
+msgid "<p class=\"description\">Single blog Hero Section Content</p>"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1014 ../oshin/be-themes-options.php:1232
+#@ be-themes
+msgid "Header Hero Section from"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1040
+#@ be-themes
+msgid "Transparent Header ?"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1048 ../oshin/be-themes-options.php:1266
+#@ be-themes
+msgid "Header Sticky"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1057 ../oshin/functions/be-themes-options-config.php:2433
+#: ../oshin/functions/be-themes-options-config.php:2625
+#@ be-themes
+msgid "Transparent Header Navigation Color Scheme"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1058 ../oshin/be-themes-options.php:1276
+#: ../oshin/functions/be-themes-options-config.php:2434
+#: ../oshin/functions/be-themes-options-config.php:2626
+#@ be-themes
+msgid "Applicable only for Transparent header"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1066 ../oshin/be-themes-options.php:1284
+#: ../oshin/functions/be-themes-options-config.php:2442
+#: ../oshin/functions/be-themes-options-config.php:2634
+#@ be-themes
+msgid "Hero Section Position"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1067 ../oshin/be-themes-options.php:1285
+#: ../oshin/functions/be-themes-options-config.php:2443
+#: ../oshin/functions/be-themes-options-config.php:2635
+#@ be-themes
+msgid "Applicable only for non-transparent header"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1075 ../oshin/be-themes-options.php:1293
+#@ be-themes
+msgid "Hero Section With Header ?"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1076 ../oshin/be-themes-options.php:1294
+#: ../oshin/functions/be-themes-options-config.php:2460
+#: ../oshin/functions/be-themes-options-config.php:2652
+#@ be-themes
+msgid "Applicable only if header is non-transparent, Hero Section position is Before Header and no Custom Height is defined"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1084 ../oshin/be-themes-options.php:1302
+#: ../oshin/functions/be-themes-options-config.php:2451
+#: ../oshin/functions/be-themes-options-config.php:2643
+#@ be-themes
+msgid "Hero Section Custom Height"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1092 ../oshin/be-themes-options.php:1310
+#: ../oshin/functions/be-themes-options-config.php:2468
+#: ../oshin/functions/be-themes-options-config.php:2660
+#@ be-themes
+msgid "Hero Section Background Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1100 ../oshin/be-themes-options.php:1318
+#: ../oshin/functions/be-themes-options-config.php:2476
+#: ../oshin/functions/be-themes-options-config.php:2668
+#@ be-themes
+msgid "Hero Section Background Image"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1108 ../oshin/be-themes-options.php:1326
+#@ be-themes
+msgid "Hero Section Background Repeat"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1117 ../oshin/be-themes-options.php:1335
+#@ be-themes
+msgid "Hero Section Background Attachment"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1126 ../oshin/be-themes-options.php:1344
+#@ be-themes
+msgid "Hero Section Background Position"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1135 ../oshin/be-themes-options.php:1353
+#@ be-themes
+msgid "Hero Section Center Scale Image to occupy container"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1143 ../oshin/be-themes-options.php:1361
+#@ be-themes
+msgid "Hero Section Enable Parallax"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1151 ../oshin/be-themes-options.php:1369
+#@ be-themes
+msgid "Hero Section Enable Background Video"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1159 ../oshin/be-themes-options.php:1377
+#@ be-themes
+msgid "Hero Section Video .MP4 Video File"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1167 ../oshin/be-themes-options.php:1385
+#@ be-themes
+msgid "Hero Section Video .OGG Video File"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1175 ../oshin/be-themes-options.php:1393
+#@ be-themes
+msgid "Hero Section Video .Webm Video File"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1191 ../oshin/be-themes-options.php:1409
+#@ be-themes
+msgid "Hero Section Background Overlay Color"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1199 ../oshin/be-themes-options.php:1417
+#@ be-themes
+msgid "Hero Section Background Overlay Opacity"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1207 ../oshin/be-themes-options.php:1425
+#@ be-themes
+msgid "Wrap Content ?"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1216 ../oshin/be-themes-options.php:1434
+#: ../oshin/functions/be-themes-options-config.php:2563
+#: ../oshin/functions/be-themes-options-config.php:2762
+#@ be-themes
+msgid "Hero Section content"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1226 ../oshin/functions/be-themes-options-config.php:2574
+#@ be-themes
+msgid "Single Shop Hero Section"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1227
+#@ be-themes
+msgid "<p class=\"description\">Single Shop Hero Section Content</p>"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1258
+#@ be-themes
+msgid "Transparent Header"
+msgstr ""
+
+#: ../oshin/be-themes-options.php:1275
+#@ be-themes
+msgid "Transparent Header Color Scheme"
+msgstr ""
+
+#: ../oshin/blog/loop-shortcodes.php:54 ../oshin/blog/loop-style1.php:79
+#: ../oshin/blog/loop-style2.php:69 ../oshin/blog/loop-style3.php:70 ../oshin/blog/loop-style4.php:80
+#: ../oshin/blog/loop-style5.php:68 ../oshin/blog/loop-style6.php:71
+#@ be-themes
+msgid "Share This : "
+msgstr ""
+
+#: ../oshin/blog/loop-shortcodes.php:57 ../oshin/blog/loop-style1.php:82
+#: ../oshin/blog/loop-style2.php:72 ../oshin/blog/loop-style3.php:73 ../oshin/blog/loop-style4.php:83
+#: ../oshin/blog/loop-style5.php:71 ../oshin/blog/loop-style6.php:74
+#@ be-themes
+msgid "Tags : "
+msgstr ""
+
+#: ../oshin/blog/loop-style1.php:61 ../oshin/blog/loop-style2.php:50 ../oshin/blog/loop-style3.php:50
+#: ../oshin/blog/loop-style4.php:61 ../oshin/blog/loop-style5.php:50 ../oshin/blog/loop-style6.php:53
+#@ be-themes
+msgid "Next >"
+msgstr ""
+
+#: ../oshin/blog/loop-style1.php:62 ../oshin/blog/loop-style2.php:51 ../oshin/blog/loop-style3.php:51
+#: ../oshin/blog/loop-style4.php:62 ../oshin/blog/loop-style5.php:51 ../oshin/blog/loop-style6.php:54
+#@ be-themes
+msgid "< Prev"
+msgstr ""
+
+#: ../oshin/blog/post-bottom-details.php:4 ../oshin/blog/post-details.php:8
+#@ be-themes
+msgid "Under :"
+msgstr ""
+
+#: ../oshin/blog/post-details-style2.php:5 ../oshin/blog/post-details.php:4
+#@ be-themes
+msgid "Posted By :"
+msgstr ""
+
+#: ../oshin/blog/post-details-style2.php:7 ../oshin/blog/post-details.php:6
+#: ../oshin/blog/post-top-details.php:5
+#@ be-themes
+msgid " comments"
+msgstr ""
+
+#: ../oshin/blog/post-details-style2.php:9
+#@ be-themes
+msgid "Under : "
+msgstr ""
+
+#: ../oshin/comments.php:8
+#@ be-themes
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../oshin/comments.php:24 ../oshin/comments.php:38
+#@ be-themes
+msgid "Comment navigation"
+msgstr ""
+
+#: ../oshin/comments.php:25 ../oshin/comments.php:39
+#@ be-themes
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../oshin/comments.php:26 ../oshin/comments.php:40
+#@ be-themes
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../oshin/comments.php:47
+#@ be-themes
+msgid "Comments are closed."
+msgstr ""
+
+#: ../oshin/comments.php:51 ../oshin/contact.php:38
+#@ be-themes
+msgid "Submit"
+msgstr ""
+
+#: ../oshin/comments.php:52
+#@ be-themes
+msgid "Comment"
+msgstr ""
+
+#: ../oshin/contact.php:26 ../oshin/functions/helpers.php:331
+#@ be-themes
+msgid "Name"
+msgstr ""
+
+#: ../oshin/contact.php:32
+#@ be-themes
+msgid "Subject"
+msgstr ""
+
+#: ../oshin/contact.php:35
+#@ be-themes
+msgid "Message"
+msgstr ""
+
+#: ../oshin/functions/be-tgm-plugins.php:108 ../oshin/functions/class-tgm-plugin-activation.php:196
+#@ be-themes
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../oshin/functions/be-tgm-plugins.php:109 ../oshin/functions/class-tgm-plugin-activation.php:197
+#@ be-themes
+msgid "Install Plugins"
+msgstr ""
+
+#: ../oshin/functions/be-tgm-plugins.php:110 ../oshin/functions/class-tgm-plugin-activation.php:198
+#, php-format
+#@ be-themes
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../oshin/functions/be-tgm-plugins.php:111
+#@ be-themes
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../oshin/functions/be-tgm-plugins.php:122 ../oshin/functions/class-tgm-plugin-activation.php:210
+#@ be-themes
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../oshin/functions/be-tgm-plugins.php:123 ../oshin/functions/class-tgm-plugin-activation.php:212
+#: ../oshin/functions/class-tgm-plugin-activation.php:1951
+#@ be-themes
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../oshin/functions/be-tgm-plugins.php:124
+#, php-format
+#@ be-themes
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:246
+#@ be-themes
+msgid "General Settings of the site including the logo, favicon and  google analytics."
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:253
+#@ be-themes
+msgid "Cache Options Panel Settings?"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:255
+#@ be-themes
+msgid "Turn on Cache once you have completed setting up all the Options here. Turning on cache, will save the options panel settings and that will help us optimize performance of the website. However, any changes to the Options while cache is ON will NOT be saved. So make sure you turn OFF cache before making changes in the Options Panel"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:262
+#@ be-themes
+msgid "Check this box if you would like to use the page builder for constructing your pages and portfolio posts. You can still disable the page builder per page if you would like to use the default wordpress content editor"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:269
+#@ be-themes
+msgid "Logo"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:276
+#@ be-themes
+msgid "Logo on Sticky"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:278
+#@ be-themes
+msgid "Please upload the logo that needs to be displayed in sticky header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:283
+#@ be-themes
+msgid "Dark Logo"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:290
+#@ be-themes
+msgid "Light Logo"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:292
+#@ be-themes
+msgid "Please upload the logo that needs to be displayed in transparent header sections with dark backgrounds."
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:340
+#@ be-themes
+msgid "Background settings for all the individual elements of the site."
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:389
+#@ be-themes
+msgid "Setup the typography for all the individual elements in your website here"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:497
+#@ be-themes
+msgid "Sub Title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:498
+#@ be-themes
+msgid "Font that will be used by the Sub Title Module in Page Builder"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:566
+#@ be-themes
+msgid "Bottom Widget Title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:583
+#@ be-themes
+msgid "Bottom Widget Text"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:600
+#@ be-themes
+msgid "Slidebar Widget Title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:617
+#@ be-themes
+msgid "Slidebar Widget Text"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:668
+#@ be-themes
+msgid "Navigation Submenu"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:686
+#@ be-themes
+msgid "This typography setting will apply on the Optional Right Sidebar Menu"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:702
+#@ be-themes
+msgid "Sidebar Sub Menu Text"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:719
+#@ be-themes
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:736
+#@ be-themes
+msgid "Mobile Submenu"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:774
+#@ be-themes
+msgid "Site Layout"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:775
+#@ be-themes
+msgid "This page has all the settings related to the Layout of your Website"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:795
+#@ be-themes
+msgid "These settings will be applicable if you choose Border Layout in the above option. This is not required for other layouts"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:801
+#@ be-themes
+msgid "Border BG"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:824
+#@ be-themes
+msgid "Enable All Ajax"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:832
+#@ be-themes
+msgid "All Ajax Exclude Links"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:833
+#@ be-themes
+msgid "Seperate by ,"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:847
+#@ be-themes
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:855
+#@ be-themes
+msgid "Disable CSS Animtion in mobile devices"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:863
+#@ be-themes
+msgid "Disable Back to top Button"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:871
+#@ be-themes
+msgid "Enable Pagebuilder Blog Posts?"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:879
+#@ be-themes
+msgid "Loader Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:895
+#@ be-themes
+msgid "Header Search Widget Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:907
+#@ be-themes
+msgid "Search Screen BG"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:915
+#@ be-themes
+msgid "Search Text Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:923
+#@ be-themes
+msgid "Textbox Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:941
+#@ be-themes
+msgid "Slider Navigation Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:957
+#@ be-themes
+msgid "Background/Border Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:958
+#@ be-themes
+msgid "The color will be applied as the BG or border of the slider arrow , depending on the style choosen"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:965
+#@ be-themes
+msgid "Background/Border Hover Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:973
+#@ be-themes
+msgid "Arrow Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:981
+#@ be-themes
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1013
+#@ be-themes
+msgid "Header Layout"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1014
+#@ be-themes
+msgid "This page has all the settings related to the Header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1022
+#@ be-themes
+msgid "Header Type"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1029
+#@ be-themes
+msgid "Header Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1053
+#@ be-themes
+msgid "Enable Top Bar"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1054
+#@ be-themes
+msgid "Top Bar will apply only on TOP header style and not on Left Header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1069
+#@ be-themes
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1075
+#@ be-themes
+msgid "TopBar Text Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1081
+#@ be-themes
+msgid "Top Bar Border (bottom) Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1095
+#: ../oshin/functions/be-themes-options-config.php:1300
+#@ be-themes
+msgid "Text Area 1"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1101
+#: ../oshin/functions/be-themes-options-config.php:1306
+#@ be-themes
+msgid "Text Area 2"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1108
+#: ../oshin/functions/be-themes-options-config.php:1313
+#@ be-themes
+msgid "Content using Code/Shortcode"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1141
+#@ be-themes
+msgid "Top Header Settings"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1142
+#@ be-themes
+msgid "This page has all the settings related to the Top Header Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1151
+#@ be-themes
+msgid "Header Wrap"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1152
+#@ be-themes
+msgid "Turn this off if you want a Full Screen Width Header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1159
+#@ be-themes
+msgid "Top Header Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1167
+#@ be-themes
+msgid "Header Border(bottom) Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1168
+#@ be-themes
+msgid "This is appicable only if you choose a Top Header Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1182
+#@ be-themes
+msgid "Border Wrap"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1183
+#: ../oshin/functions/be-themes-options-config.php:1449
+#@ be-themes
+msgid "Turn this on if you want a wrapped border"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1189
+#@ be-themes
+msgid "Top Header Logo Padding"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1190
+#: ../oshin/functions/be-themes-options-config.php:1770
+#@ be-themes
+msgid "Enter only Numbers (in pixels)"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1196
+#@ be-themes
+msgid "Submenu Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1204
+#@ be-themes
+msgid "Submenu Border Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1212
+#@ be-themes
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1220
+#@ be-themes
+msgid "Bottom Bar Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1221
+#: ../oshin/functions/be-themes-options-config.php:1228
+#@ be-themes
+msgid "This is appicable only if you choose a Header Style with Menu at the Bottom (i.e. style2)"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1227
+#@ be-themes
+msgid "Bottom Bar Border Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1242
+#@ be-themes
+msgid "Special Menu Type"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1243
+#@ be-themes
+msgid "Choose the type of Special Menu for navigation. This is possible in any of the Header Styles choosen above. "
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1254
+#@ be-themes
+msgid "Right Slidebar/Overlay Menu Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1262
+#@ be-themes
+msgid "Right Slidebar/Overlay Menu Border Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1286
+#@ be-themes
+msgid "Semi Transparent Top Header Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1287
+#@ be-themes
+msgid "This color will apply as BG for the Top Header in pages where you choose Semi Transparent Header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1314
+#@ be-themes
+msgid "For Example Social Media Icons"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1324
+#@ be-themes
+msgid "Position of widgets in Header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1348
+#@ be-themes
+msgid "Left Header Settings"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1349
+#@ be-themes
+msgid "This page has all the settings related to the Left Header Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1359
+#@ be-themes
+msgid "Left Header Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1367
+#@ be-themes
+msgid "Overlay Color on Left Menu"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1368
+#@ be-themes
+msgid "Will apply on the menu that has a BG image. This will not be applied on \"Strip with Overlay Menu\" style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1375
+#@ be-themes
+msgid "Image that should appear on the Strip"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1376
+#@ be-themes
+msgid "This image is required if you choose Sliding Left Menu style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1381
+#@ be-themes
+msgid "Left Overlay Menu Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1389
+#@ be-themes
+msgid "Left Menu Border Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1399
+#@ be-themes
+msgid "Footer Settings"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1400
+#@ be-themes
+msgid "This page has all the settings required for the footer"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1408
+#@ be-themes
+msgid "Footer Wrap"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1409
+#@ be-themes
+msgid "Turn this off if you want a Full Screen Width Footer"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1415
+#@ be-themes
+msgid "Footer Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1433
+#@ be-themes
+msgid "Footer border(Top) color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1448
+#@ be-themes
+msgid "Footer Border Wrap"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1455
+#@ be-themes
+msgid "Footer Padding Value (in pixels)"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1461
+#@ be-themes
+msgid "Primary Text on Footer"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1467
+#@ be-themes
+msgid "Secondary Text on Footer"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1473
+#@ be-themes
+msgid "Tertiary Text on Footer"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1479
+#@ be-themes
+msgid "Footer - Widget 1"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1487
+#@ be-themes
+msgid "Footer - Widget 2"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1495
+#@ be-themes
+msgid "Footer - Widget 3"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1520
+#@ be-themes
+msgid "Text Color on BG with Color Scheme"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1552
+#@ be-themes
+msgid "Tertiary Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1553
+#@ be-themes
+msgid "This color will be applied to the content area in Fixed Sidebar Portfolio Pages"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1569
+#@ be-themes
+msgid "Open Thumbnail image in Lighbox"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1570
+#@ be-themes
+msgid "By default the thumbnail will be linked to the Blog Post page"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1593
+#@ be-themes
+msgid "Blog Post Title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1609
+#@ be-themes
+msgid "Masonry Blog Post Title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1625
+#@ be-themes
+msgid "Blog Post Meta Options"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1659
+#@ be-themes
+msgid "Blog Gutter Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1677
+#@ be-themes
+msgid "Blog Gutter Width"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1694
+#@ be-themes
+msgid "Blog Read More Button Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1703
+#@ be-themes
+msgid "Show Page Title Module"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1720
+#@ be-themes
+msgid "Portfolio Images Aspect Ratio"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1729
+#@ be-themes
+msgid "Portfolio Home Page"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1730
+#@ be-themes
+msgid "The grid icons in the single portfolio page will be linked to this URL."
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1753
+#@ be-themes
+msgid "Navigation Icons color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1761
+#@ be-themes
+msgid "Navigation Icons Hover color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1769
+#@ be-themes
+msgid "Padding"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1776
+#@ be-themes
+msgid "Bottom Border Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1791
+#@ be-themes
+msgid "Bar Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1821
+#@ be-themes
+msgid "Text Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1828
+#@ be-themes
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1835
+#@ be-themes
+msgid "Text Hover Color"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1848
+#@ be-themes
+msgid "Title on Portfolio Grid"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1865
+#@ be-themes
+msgid "Meta on Portfolio Grid"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1866
+#@ be-themes
+msgid "Body font will be used for this."
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1909
+#@ be-themes
+msgid "Portfolio View Project Button Style"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1921
+#@ be-themes
+msgid "Page Builder Typography"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1922
+#@ be-themes
+msgid "Page Builder Typography Settings"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1927
+#@ be-themes
+msgid "Module Title Font Family"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1928
+#@ be-themes
+msgid "The title font will be applied to the Title section of selected modules that includes - Tabs, Accordion, Animated Charts and Skills"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1945
+#@ be-themes
+msgid "Tab Font Size"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1946
+#@ be-themes
+msgid "The font size for Tab module title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1963
+#@ be-themes
+msgid "Accordion Font Size"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1964
+#@ be-themes
+msgid "The font size for Accordion module title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1981
+#@ be-themes
+msgid "Skills Font Size"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1982
+#@ be-themes
+msgid "The font size for Skills module title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:1999
+#@ be-themes
+msgid "Special Module Content Font Family"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2000
+#@ be-themes
+msgid "This font will be applied to the Content section of selected modules that includes - Blockquote, Testimonials etc"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2017
+#@ be-themes
+msgid "Blockquote Font Size"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2018
+#@ be-themes
+msgid "The font size for Blockquote module"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2035
+#@ be-themes
+msgid "Tweet Module Font Family"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2036
+#@ be-themes
+msgid "This font will be applied to the Content section of the Tweet Module"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2053
+#@ be-themes
+msgid "Font Family for Buttons"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2076
+#@ be-themes
+msgid "Shop Page Settings"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2081
+#@ be-themes
+msgid "Shop Page Column"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2090
+#@ be-themes
+msgid "Enable Sidebar in Shop Page"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2106
+#@ be-themes
+msgid "Product Thumbnail Title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2123
+#@ be-themes
+msgid "Product Single page Title"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2140
+#@ be-themes
+msgid "Single Page Tabs Position"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2149
+#@ be-themes
+msgid "Shop Page Primary Button Styling"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2171
+#: ../oshin/functions/be-themes-options-config.php:2238
+#@ be-themes
+msgid "Border"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2179
+#: ../oshin/functions/be-themes-options-config.php:2246
+#@ be-themes
+msgid "Hover Background"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2187
+#: ../oshin/functions/be-themes-options-config.php:2254
+#@ be-themes
+msgid "Hover Text"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2195
+#: ../oshin/functions/be-themes-options-config.php:2262
+#@ be-themes
+msgid "Hover Border"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2203
+#: ../oshin/functions/be-themes-options-config.php:2270
+#@ be-themes
+msgid "Border Width"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2216
+#@ be-themes
+msgid "Shop Page Secondary Button Styling"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2287
+#@ be-themes
+msgid "Contact information that we will be used in the Contact form"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2301
+#@ be-themes
+msgid "Contact Form Typography"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2382
+#@ be-themes
+msgid "Single Blog Hero Section"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2383
+#@ be-themes
+msgid "Single Blog Hero Section Setting</p>"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2388
+#@ be-themes
+msgid "Source of Hero Section in Single posts page"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2397
+#: ../oshin/functions/be-themes-options-config.php:2589
+#@ be-themes
+msgid "Hero Section Type"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2406
+#: ../oshin/functions/be-themes-options-config.php:2598
+#@ be-themes
+msgid "Add Slider Shortcode"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2415
+#@ be-themes
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2459
+#: ../oshin/functions/be-themes-options-config.php:2651
+#@ be-themes
+msgid "Hero Section With Header"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2484
+#: ../oshin/functions/be-themes-options-config.php:2676
+#@ be-themes
+msgid "Video Settings"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2498
+#: ../oshin/functions/be-themes-options-config.php:2690
+#@ be-themes
+msgid "Background Video format"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2508
+#: ../oshin/functions/be-themes-options-config.php:2700
+#@ be-themes
+msgid "Self host the video and enter the URL of the media file"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2516
+#: ../oshin/functions/be-themes-options-config.php:2708
+#@ be-themes
+msgid "Unmute Video"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2517
+#: ../oshin/functions/be-themes-options-config.php:2709
+#@ be-themes
+msgid "By default, the video in the BG will be muted"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2554
+#: ../oshin/functions/be-themes-options-config.php:2753
+#@ be-themes
+msgid "Wrap Content"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2575
+#@ be-themes
+msgid "Single Shop Hero Section Setting</p>"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2580
+#@ be-themes
+msgid "Source of Hero Section in Single Products page"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2721
+#@ be-themes
+msgid "Enable Parallax"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2729
+#@ be-themes
+msgid "Enable Mouse Move Parallax"
+msgstr ""
+
+#: ../oshin/functions/be-themes-options-config.php:2848
+#: ../oshin/functions/be-themes-options-config.php:2849
+#@ be-themes
+msgid "Oshin Options"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:199
+#@ be-themes
+msgid "Something went wrong."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:211
+#@ be-themes
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:213
+#@ be-themes
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:214
+#, php-format
+#@ be-themes
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:215
+#@ be-themes
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:544
+#: ../oshin/functions/class-tgm-plugin-activation.php:2168
+#@ be-themes
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1174
+#@ be-themes
+msgid "Private Repository"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1177
+#@ be-themes
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1182
+#@ be-themes
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1185
+#@ be-themes
+msgid "Required"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1185
+#@ be-themes
+msgid "Recommended"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1188
+#@ be-themes
+msgid "Not Installed"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1190
+#@ be-themes
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1290
+#: ../oshin/functions/class-tgm-plugin-activation.php:1398
+#@ be-themes
+msgid "Install"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1312
+#: ../oshin/functions/class-tgm-plugin-activation.php:1399
+#@ be-themes
+msgid "Activate"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ be-themes
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1377
+#@ be-themes
+msgid "Plugin"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1378
+#@ be-themes
+msgid "Source"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1379
+#@ be-themes
+msgid "Type"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1380
+#@ be-themes
+msgid "Status"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1508
+#@ be-themes
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1616
+#@ be-themes
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1934
+#@ be-themes
+msgid "Install package not available."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1935
+#, php-format
+#@ be-themes
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1936
+#@ be-themes
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1937
+#@ be-themes
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1938
+#@ be-themes
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1939
+#@ be-themes
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:1950
+#@ be-themes
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2064
+#@ be-themes
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2065
+#, php-format
+#@ be-themes
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2065
+#: ../oshin/functions/class-tgm-plugin-activation.php:2074
+#@ be-themes
+msgid "Show Details"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2065
+#: ../oshin/functions/class-tgm-plugin-activation.php:2074
+#@ be-themes
+msgid "Hide Details"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2066
+#@ be-themes
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ be-themes
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2071
+#@ be-themes
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ be-themes
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2073
+#, php-format
+#@ be-themes
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2074
+#, php-format
+#@ be-themes
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2075
+#@ be-themes
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../oshin/functions/class-tgm-plugin-activation.php:2076
+#, php-format
+#@ be-themes
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:38 ../oshin/functions/helpers.php:105
+#@ be-themes
+msgid "First"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:41 ../oshin/functions/helpers.php:108
+#@ be-themes
+msgid "Prev"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:51 ../oshin/functions/helpers.php:116
+#@ be-themes
+msgid "Next"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:54 ../oshin/functions/helpers.php:119
+#@ be-themes
+msgid "Last"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:151 ../oshin/functions/helpers.php:153
+#: ../oshin/functions/helpers.php:167 ../oshin/functions/helpers.php:169
+#@ be-themes
+msgid "View all posts in"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:296
+#@ be-themes
+msgid "Older posts"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:297
+#@ be-themes
+msgid "Newer posts"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:317
+#@ be-themes
+msgid "Search ..."
+msgstr ""
+
+#: ../oshin/functions/helpers.php:333
+#@ be-themes
+msgid "Website"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:350 ../oshin/functions/helpers.php:402
+#@ be-themes
+msgid "Edit"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:365
+#@ be-themes
+msgid "Reply"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:374 ../oshin/functions/helpers.php:377
+#, php-format
+#@ be-themes
+msgid "%1$s"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:393
+#@ be-themes
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../oshin/functions/helpers.php:635 ../oshin/functions/helpers.php:705
+#@ be-themes
+msgid "Home"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:641 ../oshin/functions/helpers.php:643
+#: ../oshin/functions/helpers.php:645 ../oshin/functions/helpers.php:651
+#: ../oshin/functions/helpers.php:653 ../oshin/functions/helpers.php:655
+#, php-format
+#@ be-themes
+msgid "%s"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:647 ../oshin/functions/helpers.php:736 ../oshin/page-title.php:15
+#@ be-themes
+msgid "Portfolio Archives"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:657 ../oshin/functions/helpers.php:746 ../oshin/page-title.php:24
+#@ be-themes
+msgid "Blog Archives"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:713 ../oshin/functions/helpers.php:773 ../oshin/page-title.php:27
+#: ../oshin/page-title.php:29
+#@ be-themes
+msgid "Blog"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:732
+#@ be-themes
+msgid "Portfolio Category / "
+msgstr ""
+
+#: ../oshin/functions/helpers.php:734
+#@ be-themes
+msgid "Portfolio Tag / "
+msgstr ""
+
+#: ../oshin/functions/helpers.php:754
+#@ be-themes
+msgid "Here"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:1151 ../oshin/functions/helpers.php:1157
+#@ be-themes
+msgid "Instagram Error : "
+msgstr ""
+
+#: ../oshin/functions/helpers.php:1199 ../oshin/functions/helpers.php:1204
+#@ be-themes
+msgid "Flickr Error : "
+msgstr ""
+
+#: ../oshin/functions/helpers.php:1199
+#@ be-themes
+msgid "Unknown Error"
+msgstr ""
+
+#: ../oshin/functions/helpers.php:1236
+#@ be-themes
+msgid "Dribble Error : "
+msgstr ""
+
+#: ../oshin/functions/helpers.php:1318
+#@ be-themes
+msgid "Load More"
+msgstr ""
+
+#: ../oshin/functions/twitter/class-wp-twitter-api.php:57
+#@ be-themes
+msgid "Can't get the bearer token, check your credentials"
+msgstr ""
+
+#: ../oshin/functions/twitter/class-wp-twitter-api.php:100
+#@ be-themes
+msgid "Bearer Token is good, check your query"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:13
+#@ be-themes
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:15
+#@ be-themes
+msgid "Widget area of Sidebar template pages"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:24
+#@ be-themes
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:26 ../oshin/functions/widget-functions.php:37
+#: ../oshin/functions/widget-functions.php:48 ../oshin/functions/widget-functions.php:59
+#@ be-themes
+msgid "Footer widget area"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:35
+#@ be-themes
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:46
+#@ be-themes
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:57
+#@ be-themes
+msgid "Footer Column 4"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:68
+#@ be-themes
+msgid "Slidebar"
+msgstr ""
+
+#: ../oshin/functions/widget-functions.php:70
+#@ be-themes
+msgid "Widget area of Slidebar"
+msgstr ""
+
+#: ../oshin/functions/widgets/brankic-photostream-widget/bra_photostream_widget.php:20
+#: ../oshin/functions/widgets/brankic-photostream-widget/bra_photostream_widget.php:26
+#: ../oshin/functions/widgets/brankic-photostream-widget/bra_photostream_widget.php:69
+#@ be-themes
+msgid "Your Photostream"
+msgstr ""
+
+#: ../oshin/functions/widgets/recent_post_widget.php:4
+#@ be-themes
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: ../oshin/functions/widgets/recent_post_widget.php:5
+#@ be-themes
+msgid "BE Recent Posts"
+msgstr ""
+
+#: ../oshin/functions/widgets/recent_post_widget.php:30
+#@ be-themes
+msgid "Recent Posts"
+msgstr ""
+
+#: ../oshin/functions/widgets/recent_post_widget.php:89
+#@ be-themes
+msgid "Title:"
+msgstr ""
+
+#: ../oshin/functions/widgets/recent_post_widget.php:92
+#@ be-themes
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../oshin/headers/header-functions.php:158 ../oshin/headers/header-functions.php:180
+#: ../oshin/woocommerce/be-woo-functions.php:197
+#@ be-themes
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../oshin/headers/header-functions.php:575
+#, php-format
+#@ be-themes
+msgid "Page %s"
+msgstr ""
+
+#: ../oshin/meta-box/demo/demo.php:151
+#@ be-themes
+msgid "Heading"
+msgstr ""
+
+#: ../oshin/meta-box/demo/image-select.php:6
+#@ be-themes
+msgid "Image Select Demo"
+msgstr ""
+
+#: ../oshin/meta-box/demo/oembed.php:6
+#@ be-themes
+msgid "oEmbed Demo"
+msgstr ""
+
+#: ../oshin/meta-box/demo/oembed.php:10
+#@ be-themes
+msgid "oEmbed(s)"
+msgstr ""
+
+#: ../oshin/meta-box/demo/slider.php:6
+#@ be-themes
+msgid "Slider Demo"
+msgstr ""
+
+#: ../oshin/meta-box/demo/url.php:6
+#@ be-themes
+msgid "URL Demo"
+msgstr ""
+
+#: ../oshin/meta-box/demo/url.php:10
+#@ be-themes
+msgid "URL(s)"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/button.php:35
+#@ be-themes
+msgid "Click me"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/file-input.php:17
+#@ be-themes
+msgid "Select File"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/oembed.php:54
+#@ be-themes
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/oembed.php:76
+#@ be-themes
+msgid "Preview"
+msgstr ""
+
+#: ../oshin/meta-box/inc/fields/user.php:54
+#@ be-themes
+msgid "User"
+msgstr ""
+
+#: ../oshin/page-title.php:3
+#@ be-themes
+msgid "Category: "
+msgstr ""
+
+#: ../oshin/page-title.php:5
+#@ be-themes
+msgid "Articles Tagged with: "
+msgstr ""
+
+#: ../oshin/page-title.php:7
+#@ be-themes
+msgid "Search Results for: "
+msgstr ""
+
+#: ../oshin/page-title.php:11
+#@ be-themes
+msgid "Portfolio Category : "
+msgstr ""
+
+#: ../oshin/page-title.php:13
+#@ be-themes
+msgid "Portfolio Tag : "
+msgstr ""
+
+#: ../oshin/page-title.php:18
+#, php-format
+#@ be-themes
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../oshin/page-title.php:20
+#, php-format
+#@ be-themes
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../oshin/page-title.php:22
+#, php-format
+#@ be-themes
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../oshin/search.php:52
+#@ be-themes
+msgid "Sorry, Please enter a search query"
+msgstr ""
+
+#: ../oshin/woocommerce/class-wc-widget-cart.php:23
+#@ be-themes
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../oshin/woocommerce/class-wc-widget-cart.php:25
+#@ be-themes
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../oshin/woocommerce/class-wc-widget-cart.php:29 ../oshin/woocommerce/class-wc-widget-cart.php:54
+#@ be-themes
+msgid "Cart"
+msgstr ""
+
+#: ../oshin/woocommerce/class-wc-widget-cart.php:35
+#@ be-themes
+msgid "Hide if cart is empty"
+msgstr ""
+

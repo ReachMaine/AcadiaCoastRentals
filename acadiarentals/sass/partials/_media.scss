@@ -1,0 +1,42 @@
+/* **** media **** */
+
+@media only screen and (max-width: 767px) {
+	.reach-phone-cols { // dont make social icons rows 100% at here
+		.textwidget {
+			.one-third {
+			//	width: 30%;
+			//	float: left;
+			}
+		}
+	}
+	#sb-slidebar-content {
+		#slidebar-menu {
+			.mobile-sub-menu-controller {
+			//	font-size: 22px;
+			}
+		}
+
+	}
+	#main-wrapper {
+		#header {
+			.logo {
+			//	padding-top: 5px;
+			}
+			#header-controls-right {
+			//	line-height: 120px;
+			}
+		}
+		#main {
+		//	background-color: $wakeland-ltblue;
+		}
+		#hero-section {
+		//	top: 120px;
+		}
+		#content {
+		//	padding-top: 120px;
+			.be-text-inner {
+		//		width: 92%!important;
+			}
+		}
+	}
+}
