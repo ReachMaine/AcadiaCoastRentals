@@ -11,5 +11,26 @@ Version: 1.2
 @import "partials/typography";
 
 
+.single-post {
+  #header {
+    #header-inner-wrap {
+      .sliderbar-nav-controller-wrap {
+        .be-mobile-menu-icon,
+        .be-mobile-menu-icon:before,
+        .be-mobile-menu-icon:after {
+          background-color: $post-hamberger;
+        }
+      }
+    }
+  }
+  #hero-section {
+    .hero-section-wrap {
+      background: url(./images/fir-bough-blog-header.jpg) left top repeat scroll ;
+      opacity: 0.15!important;
+
+    }
+  }
+}
+
 /* *** keep this at the end *** */
 @import "partials/media";
