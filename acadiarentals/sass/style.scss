@@ -33,7 +33,17 @@ Version: 1.2
   }
 }
 // content
-
+.home { // on home page.
+  .portfolio-all-wrap {
+    article {
+      .article-details {
+         padding-left: 0px;
+         padding-right: 0px;
+         padding-top: 10px;
+      }
+    }
+  }
+}
 .single-post {
   #content {
     padding-bottom: 0px;
@@ -68,7 +78,9 @@ Version: 1.2
       width: 250px;
       height: 100px;
       img {
-        float: right;;
+        float: right;
+        margin-right: 0px;
+        margin-left: 10px;
       }
     }
     .next {
