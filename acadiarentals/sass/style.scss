@@ -11,7 +11,7 @@ Version: 1.2
 @import "partials/typography";
 
 
-.single-post {
+.single-post { // stuff for single post.
   #header {
     #header-inner-wrap {
       .sliderbar-nav-controller-wrap {
@@ -30,6 +30,12 @@ Version: 1.2
 
     }
   }
+}
+
+// bottom cta
+#reach-bottom-cta {
+  padding-top: 30px;
+  background-color: $acr-yellow-bkg;
 }
 
 /* *** keep this at the end *** */
