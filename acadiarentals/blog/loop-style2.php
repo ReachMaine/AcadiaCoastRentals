@@ -87,6 +87,8 @@ $post_format = get_post_format();
 			<div class="clearfix"></div>
 		</div>
 	</div>
+
+
 	<?php if(is_single()) { ?>
 		<div class="clearfix single-post-share single-page-atts">
 			<div class="clearfix single-page-att">
@@ -99,3 +101,22 @@ $post_format = get_post_format();
 	<?php } ?>
 	<div class="blog-separator clearfix"><hr class="separator"></div>
 </article>
+<?php /* adding naviation */ ?>
+<div id="cooler-nav" class="navigation">
+	<?php $prevPost = get_previous_post(true);
+		if ($prevPost) { ?>
+			<div class="nav-box previous">
+				<?php $prevthumbnail = get_the_post_thumbnail($prevPost->ID, array(100,100) );?>
+				<?php previous_post_link('%link',$prevthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-left" aria-hidden="true"></i>', TRUE); ?>
+			</div>
+
+		<?php } ?>
+
+		<?php $nextPost = get_next_post(true);
+		if ($nextPost) {  ?>
+				<div class="nav-box next" style="float:right;">
+					<?php $nextthumbnail = get_the_post_thumbnail($nextPost->ID, array(100,100) );  ?>
+					<?php next_post_link('%link',$nextthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>', TRUE); ?>
+				</div>
+		<?php  }  ?>
+	</div><!--#cooler-nav div -->

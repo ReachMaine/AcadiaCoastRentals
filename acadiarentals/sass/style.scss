@@ -9,8 +9,9 @@ Version: 1.2
 @import url("../oshin/style.css");
 @import "partials/colors";
 @import "partials/typography";
+@import "partials/booking-calendar";
 
-
+// header part//
 .single-post { // stuff for single post.
   #header {
     #header-inner-wrap {
@@ -31,7 +32,61 @@ Version: 1.2
     }
   }
 }
+// content
 
+.single-post {
+  #content {
+    padding-bottom: 0px;
+    #content-wrap {
+      padding-bottom: 0px;
+      article {
+        margin-bottom: 40px;
+        .post-content {
+          .acr-primary-image {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+  // post navigation
+  #cooler-nav{clear: both; height: 100px; margin: 0 0 70px;
+    .nav-box{
+        background: $acr-post-nav-bkg;
+        padding: 10px;
+        i.fa {
+          font-size: 2em;
+          color: $acr-blue;
+        }
+      }
+    img {
+      margin: 0 10px 0 0;
+    }
+    .previous {
+      float: left;
+      vertical-align: middle;
+      width: 250px;
+      height: 100px;
+      img {
+        float: right;;
+      }
+    }
+    .next {
+      float: right;
+      width: 250px;
+      img {
+        float: left;
+      }
+      h6 {
+        text-align: right;
+      }
+      i.fa {
+        float: right;
+      }
+    }
+  }
+
+}
 // bottom cta
 #reach-bottom-cta {
   padding-top: 30px;
