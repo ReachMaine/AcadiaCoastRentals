@@ -1,5 +1,6 @@
-<?php /*  Mods
-8Dec16 zig - remove post bottom tags
+<?php
+/* Mods
+9Dec16 zig - dont show exceprt in shortcodes.
 */
 $page_id = be_get_page_id();
 global $blog_attr, $more_text;
@@ -39,7 +40,7 @@ $post_format = get_post_format();
 					<div class="post-details clearfix">
 						<div class="post-content clearfix">
 							<?php
-								the_excerpt();
+								/* the_excerpt();	*/
 							?>
 						</div>
 					</div>
@@ -55,8 +56,8 @@ $post_format = get_post_format();
 		<div class="clearfix single-page-att">
 			<h6><?php echo __('Share This : ','be-themes'); ?></h6> <div class="share-links clearfix"><?php echo be_get_share_button(get_the_permalink(), get_the_title()); ?></div>
 		</div>
-		<?php /* <div class="clearfix single-page-att">
+		<div class="clearfix single-page-att">
 			<h6><?php echo __('Tags : ','be-themes'); ?></h6> <?php echo get_the_tag_list('<div class="tagcloud">','','</div>'); ?>
-		</div> */
+		</div>
 	</div>
 <?php } ?>
