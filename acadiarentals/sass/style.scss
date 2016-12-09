@@ -50,6 +50,16 @@ Version: 1.2
     }
   }
 }
+.related-items.reach-blog {
+  .one-fourth {
+    width: 23%;
+    margin-left: 2%;
+  }
+  .one-fourth:nth-child(4n+1) {
+    clear: both;
+    margin-left: 0px;
+  } // every fourth child
+}
 .single-post {
   #content {
     padding-bottom: 0px;
