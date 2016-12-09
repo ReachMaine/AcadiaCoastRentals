@@ -76,10 +76,14 @@ Version: 1.2
     }
   }
   // post navigation
-  #cooler-nav{clear: both; height: 100px; margin: 0 0 70px;
+  #cooler-nav{
+    clear: both;
+    height: 100px;
+    //margin: 0 0 70px;
     .nav-box{
         background: $acr-post-nav-bkg;
         padding: 10px;
+        margin-bottom: 30px;
         i.fa {
           font-size: 2em;
           color: $acr-blue;

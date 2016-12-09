@@ -30,10 +30,10 @@ add_action('wp_enqueue_scripts','enqueue_our_required_stylesheets');
   add_action( 'widgets_init', 'reach_widgets_init' );
 
 
-add_filter ('the_title', 'reach_subtitle_to_post');
-function reach_subtitle_to_post($title) {
+/* not using filter any more
+add_filter ('the_title', 'reach_subtitle_to_post', 10, 2);
+function reach_subtitle_to_post($title, $id) {
   global $post;
-  global $id;
   if ( ($post->post_type == 'post')  && (!is_admin()) ) {
     $subtitle = get_post_meta($id,"property_options_subtitle", true);
     if ($subtitle) {
@@ -42,5 +42,5 @@ function reach_subtitle_to_post($title) {
 
   }
   return $title;
-}
+} */
 ?>

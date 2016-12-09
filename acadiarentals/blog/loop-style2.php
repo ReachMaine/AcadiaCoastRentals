@@ -32,6 +32,10 @@ $post_format = get_post_format();
 							get_template_part( 'content', $post_format );
 						else :
 							echo '<h5 class="post-title"><a href="'.get_permalink(get_the_ID()).'">'.get_the_title(get_the_ID()).'</a></h5>';
+							$subtitle = get_post_meta(get_the_ID(),"property_options_subtitle", true);
+					    if ($subtitle) {
+					      echo '<h6 class="acr-subtitle">'.$subtitle."</h6>";
+					    }
 						endif;
 					?>
 				</header>

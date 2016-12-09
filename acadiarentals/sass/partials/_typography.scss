@@ -9,8 +9,11 @@ i.fa-pull-right {
 	float: right;
 	padding-left: 5px;
 }
+h6.acr-subtitle { // subtitle is an h6 on a single post.
+	font-size: 1.5em;
+}
 .acr-subtitle {
-	font-size: 18px; // subtitle is 60% of the main title.
+	//font-size: 70%; // subtitle is 60% of the main title.
 	font-weight: normal;
 	color: #333;
 }

@@ -1,6 +1,7 @@
 <?php
 /* Mods
 9Dec16 zig - dont show exceprt in shortcodes.
+          - show the subtitle
 */
 $page_id = be_get_page_id();
 global $blog_attr, $more_text;
@@ -32,6 +33,10 @@ $post_format = get_post_format();
 							get_template_part( 'content', $post_format );
 						else :
 							echo '<h5 class="post-title"><a href="'.get_permalink(get_the_ID()).'">'.get_the_title(get_the_ID()).'</a></h5>';
+							$subtitle = get_post_meta(get_the_ID(),"property_options_subtitle", true);
+					    if ($subtitle) {
+					      echo '<div class="acr-subtitle"><a href="'.get_permalink(get_the_ID()).'">'.$subtitle.'</a></div>';
+					    }
 						endif;
 					?>
 				</header>
