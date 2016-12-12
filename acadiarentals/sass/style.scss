@@ -12,6 +12,7 @@ Version: 1.2
 @import "partials/booking-calendar";
 
 // header part//
+
 .single-post { // stuff for single post.
   #header {
     #header-inner-wrap {
@@ -36,6 +37,26 @@ Version: 1.2
 .sb-slidebar  {
     height: initial;
     max-width: 280px;
+    .overlay-menu-close {
+      top: 10px;
+      margin-top: 0px;
+    }
+    #sb-slidebar-content {
+      #logo-sidebar {
+        margin-top: 45px;
+        img {
+          width: 80%;
+        }
+      }
+      .menu {
+        margin-bottom: 30px;
+      }
+      .widget_search {
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 10px;
+      }
+    }
 }
 
 // content
