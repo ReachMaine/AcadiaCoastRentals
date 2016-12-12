@@ -50,6 +50,16 @@ Version: 1.2
     }
   }
 }
+
+div.hr-logo hr:after {
+    background: url('./images/acr-hr-icon.png') no-repeat top center;
+    content: "";
+    display: block;
+    height: 25px; /* height of the ornament */
+    position: relative;
+    top: -12px; /* half the height of the ornament */
+}
+
 .related-items.reach-blog {
   .one-fourth {
     width: 23%;
