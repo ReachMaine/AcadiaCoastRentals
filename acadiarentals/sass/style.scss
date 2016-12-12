@@ -82,6 +82,10 @@ div.hr-logo hr:after {
 }
 
 .related-items.reach-blog {
+  .acr-subtitle {
+    line-height: 20px;
+  }
+/*
   .one-fourth {
     width: 23%;
     margin-left: 2%;
@@ -89,7 +93,7 @@ div.hr-logo hr:after {
   .one-fourth:nth-child(4n+1) {
     clear: both;
     margin-left: 0px;
-  } // every fourth child
+  } // every fourth child*/
 }
 .single-post {
   #content {

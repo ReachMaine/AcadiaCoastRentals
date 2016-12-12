@@ -17,6 +17,7 @@
 		}
 
 	}
+
 	#main-wrapper {
 		#header {
 			.logo {
@@ -38,5 +39,18 @@
 		//		width: 92%!important;
 			}
 		}
+	}
+}
+
+@media only screen and (min-width: 768px)  {
+	.related-items.reach-blog {
+		.one-fourth {
+			width: 23%;
+			margin-left: 2%;
+		}
+		.one-fourth:nth-child(4n+1) {
+		    clear: both;
+		    margin-left: 0px;
+	  }
 	}
 }
