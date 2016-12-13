@@ -181,6 +181,16 @@ div.hr-logo hr:after {
   padding-top: 30px;
   background-color: $acr-yellow-bkg;
 }
+// footer
+#footer {
+    a.reach-logo {
+    	color: white;
+    }
+    .reach-logo:after {
+    	content: url('images/reach-favicon.png');
+    	padding-left: 4px;
+    }
+}
 
 /* *** keep this at the end *** */
 @import "partials/media";
