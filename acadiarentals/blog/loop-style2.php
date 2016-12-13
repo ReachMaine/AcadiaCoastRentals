@@ -107,6 +107,7 @@ $post_format = get_post_format();
 	<?php /* <div class="blog-separator clearfix"><hr class="separator"></div> */ ?>
 </article>
 <?php /* adding naviation */ ?>
+<?php if (is_single()) { ?>
 <div id="cooler-nav" class="navigation">
 	<?php /* zig - next & previous are messed up due to ascending/descending */ ?>
 	<?php $prevPost = get_next_post(true);
@@ -128,3 +129,4 @@ $post_format = get_post_format();
 				</div>
 		<?php  }  ?>
 	</div><!--#cooler-nav div -->
+	<?php } ?>
