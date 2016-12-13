@@ -107,20 +107,23 @@ $post_format = get_post_format();
 </article>
 <?php /* adding naviation */ ?>
 <div id="cooler-nav" class="navigation">
-	<?php $prevPost = get_previous_post(true);
+	<?php /* zig - next & previous are messed up due to ascending/descending */ ?>
+	<?php $prevPost = get_next_post(true);
+		echo "<!--<p>prev is: ".$prevPost->ID."</p>-->";
 		if ($prevPost) { ?>
 			<div class="nav-box previous">
 				<?php $prevthumbnail = get_the_post_thumbnail($prevPost->ID, array(100,100) );?>
-				<?php previous_post_link('%link',$prevthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-left" aria-hidden="true"></i>', TRUE); ?>
+				<?php next_post_link('%link',$prevthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-left" aria-hidden="true"></i>', TRUE); ?>
 			</div>
 
 		<?php } ?>
 
-		<?php $nextPost = get_next_post(true);
+		<?php $nextPost = get_previous_post(true);
+		echo "<!-- <p>next is: ".$nextPost->ID."</p> -->";
 		if ($nextPost) {  ?>
 				<div class="nav-box next" style="float:right;">
 					<?php $nextthumbnail = get_the_post_thumbnail($nextPost->ID, array(100,100) );  ?>
-					<?php next_post_link('%link',$nextthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>', TRUE); ?>
+					<?php previous_post_link('%link',$nextthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>', TRUE); ?>
 				</div>
 		<?php  }  ?>
 	</div><!--#cooler-nav div -->
