@@ -1,5 +1,6 @@
 <?php /*  Mods
 8Dec16 zig - remove post bottom tags
+13Dec16 zig - remove social share (put into content)
 */
 $page_id = be_get_page_id();
 global $blog_attr;
@@ -94,16 +95,16 @@ $post_format = get_post_format();
 
 
 	<?php if(is_single()) { ?>
-		<div class="clearfix single-post-share single-page-atts">
+		<?php /* <div class="clearfix single-post-share single-page-atts">
 			<div class="clearfix single-page-att">
 				<h6><?php echo __('Share This : ','be-themes'); ?></h6> <div class="share-links clearfix"><?php echo be_get_share_button(get_the_permalink(), get_the_title(), get_the_ID() ); ?></div>
-			</div>
+			</div> */ ?>
 		<?php /* 	<div class="clearfix single-post-tags single-page-att">
 				<h6><?php echo __('Tags : ','be-themes'); ?></h6> <?php echo get_the_tag_list('<div class="tagcloud">','','</div>'); ?>
 			</div> */ ?>
 		</div>
 	<?php } ?>
-	<div class="blog-separator clearfix"><hr class="separator"></div>
+	<?php /* <div class="blog-separator clearfix"><hr class="separator"></div> */ ?>
 </article>
 <?php /* adding naviation */ ?>
 <div id="cooler-nav" class="navigation">

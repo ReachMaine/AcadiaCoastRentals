@@ -51,3 +51,19 @@ if ( ! function_exists( 'reach_recent_posts' ) ) {
 	}
 	add_shortcode( 'reach_recent_posts', 'reach_recent_posts' );
 }
+
+if ( ! function_exists( 'reach_share_buttons' ) ) {
+	function reach_share_buttons( $atts, $content ) {
+		$html_ret = "";
+		$html_ret .= '<div class="reach-share-wrap">';
+		$html_ret .= 	'<h6>';
+		$html_ret .= 	  __('Share : ','be-themes');
+		$html_ret .= 	'</h6>';
+		$html_ret .=   '<div class="share-links clearfix reach-share">';
+		$html_ret .= 	  be_get_share_button(get_the_permalink(), get_the_title(), get_the_ID() );
+		$html_ret .=   '</div>';
+		$html_ret .= '</div>';
+		return $html_ret;
+	}
+	add_shortcode('reach_share_buttons', 'reach_share_buttons');
+}

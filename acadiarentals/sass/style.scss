@@ -71,7 +71,9 @@ Version: 1.2
     }
   }
 }
-
+div.hr-logo {
+    margin-bottom: 0px!important;
+}
 div.hr-logo hr:after {
     background: url('./images/acr-hr-icon.png') no-repeat top center;
     content: "";
@@ -79,6 +81,9 @@ div.hr-logo hr:after {
     height: 25px; /* height of the ornament */
     position: relative;
     top: -12px; /* half the height of the ornament */
+}
+.single-page-att {
+    margin-bottom: 0px;
 }
 
 .related-items.reach-blog {
@@ -95,17 +100,31 @@ div.hr-logo hr:after {
     margin-left: 0px;
   } // every fourth child*/
 }
+.reach-share-wrap {
+    //border-top: 1px solid $acr-green;
+    padding-top: 10px;
+    h6 {
+        float: left;
+        //color: $acr-green!important;
+    }
+    .reach-share a.custom-share-button {
+        //color: $acr-green;
+    }
+}
 .single-post {
   #content {
     padding-bottom: 0px;
     #content-wrap {
       padding-bottom: 0px;
       article {
-        margin-bottom: 40px;
-        .post-content {
-          .acr-primary-image {
-            width: 100%;
-          }
+        margin-bottom: 0px;
+        .post-content-wrap {
+            margin-bottom: 0px; // SO MUCH AIR!
+            .post-content {
+              .acr-primary-image {
+                width: 100%;
+              }
+            }
         }
       }
     }
@@ -153,6 +172,9 @@ div.hr-logo hr:after {
     }
   }
 
+}
+.be-row.zero-bottom{
+    margin-bottom: 0px!important;
 }
 // bottom cta
 #reach-bottom-cta {
