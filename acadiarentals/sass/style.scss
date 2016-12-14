@@ -186,9 +186,9 @@ div.hr-logo hr:after {
     a.reach-logo {
     	color: white;
     }
-    .reach-logo:after {
+    .reach-logo:before {
     	content: url('images/reach-favicon.png');
-    	padding-left: 4px;
+    	padding-right: 4px;
     }
 }
 
