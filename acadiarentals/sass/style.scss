@@ -176,6 +176,21 @@ div.hr-logo hr:after {
 .be-row.zero-bottom{
     margin-bottom: 0px!important;
 }
+body.search.search-results {
+    .style2-blog article {
+        .post-thumb {
+            max-width: 280px;
+        }
+        .article-details {
+            .post-title {
+                font-size: 24px;
+            }
+            .acr-subtitle {
+                font-size: initial;
+            }
+        }
+    }
+}
 // bottom cta
 #reach-bottom-cta {
   padding-top: 30px;

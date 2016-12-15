@@ -1,6 +1,6 @@
 /* **** media **** */
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px) { // smaller than tablet.
 	.reach-phone-cols { // dont make social icons rows 100% at here
 		.textwidget {
 			.one-third {
@@ -39,6 +39,10 @@
 		//		width: 92%!important;
 			}
 		}
+	}
+	#content-wrap .column-block {
+		margin-bottom: 0px;
+		
 	}
 }
 
