@@ -17,4 +17,18 @@ h6.acr-subtitle { // subtitle is an h6 on a single post.
 	font-weight: normal;
 	color: #333;
 }
+.be-button-wrap {
+	a.be-button {
+		text-transform: none;
+		font-size: 26px;
+		line-height: 32px;
+	}
+	a.be-button.blockbtn {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+}
+.be-button-wrap.align-block  {
+	margin-bottom: 20px!important;
+}
 /* ----------- end typography ----------- */
