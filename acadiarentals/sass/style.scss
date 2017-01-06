@@ -12,7 +12,10 @@ Version: 1.2
 @import "partials/booking-calendar";
 
 // header part//
-
+#header .header-code-widgets i.font-icon:before { // face book icon in header
+    font-size: 1.8em;
+    line-height: 1.7em;
+}
 .single-post { // stuff for single post.
   #header {
     #header-inner-wrap {

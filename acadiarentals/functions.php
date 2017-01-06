@@ -7,6 +7,7 @@
 require_once(get_stylesheet_directory().'/custom/branding.php');
 require_once(get_stylesheet_directory().'/custom/property_metabox.php');
 require_once(get_stylesheet_directory().'/custom/shortcodes.php');
+require_once(get_stylesheet_directory().'/custom/oshine.php');
 //enqueues our external font awesome stylesheet
 function enqueue_our_required_stylesheets(){
 	wp_enqueue_style('font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');

@@ -64,3 +64,8 @@
 	  }
 	}
 }
+@media only screen and (max-width: 320px) {
+	.logo {
+		max-width: 60%!important;
+	}
+}
