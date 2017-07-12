@@ -5,6 +5,7 @@ if ( ! function_exists( 'reach_recent_posts' ) ) {
 		extract( shortcode_atts( array (
 			'number'=>'four',
 			'hide_excerpt' => '',
+			'category' => '',
 	    ), $atts ) );
 		if( $number == 'three' ) {
 			$posts_per_page = 3;
@@ -20,15 +21,18 @@ if ( ! function_exists( 'reach_recent_posts' ) ) {
 			//'posts_per_page'=> $posts_per_page,
 			'orderby'=>'date',
 			'ignore_sticky_posts'=>1,
-			'tax_query' => array(
+			/* 'tax_query' => array(
 				array(
 					'taxonomy' => 'post_format',
 					'field' => 'slug',
 					'terms' => array( 'post-format-quote' ),
 					'operator' => 'NOT IN',
 				)
-			),
+			), */
 		);
+		if ($category) {
+			$args['category_name'] = $category;
+		}
 		$output = '';
 		global $meta_sep, $blog_attr;
 		$my_query = new WP_Query( $args  );
