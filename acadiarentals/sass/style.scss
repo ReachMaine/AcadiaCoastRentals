@@ -32,8 +32,9 @@ Version: 1.2
   }
   #hero-section {
     .hero-section-wrap {
-      background: url(./images/fir-bough-blog-header.jpg) left top repeat scroll ;
-      opacity: 0.15!important;
+      //background: url(./images/fir-bough-blog-header.jpg) left top repeat scroll ;
+      background: url(./images/fir-bough-blog-header-flop.jpg) left top repeat scroll ;
+      //opacity: 0.15!important;
 
     }
   }
@@ -121,6 +122,7 @@ div.hr-logo hr:after {
     padding-bottom: 0px;
     #content-wrap {
       padding-bottom: 0px;
+      padding-top: 30px;  // adding above blog post content
       article {
         margin-bottom: 0px;
         .post-content-wrap {

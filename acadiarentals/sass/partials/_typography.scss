@@ -42,4 +42,7 @@ h6.acr-subtitle { // subtitle is an h6 on a single post.
 .element .post-content img {
 	max-width: 100%;
 }
+p:empty  {
+    display: none;
+}
 /* ----------- end typography ----------- */
