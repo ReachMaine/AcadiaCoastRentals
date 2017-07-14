@@ -39,6 +39,7 @@ Version: 1.2
     }
   }
 }
+
 // mobile menu/ slidebar
 .sb-slidebar  {
     height: initial;
@@ -91,7 +92,9 @@ div.hr-logo hr:after {
 .single-page-att {
     margin-bottom: 0px;
 }
-
+.page-title-module-custom h1.page-title-custom {
+	margin-bottom: 0px;
+}
 .related-items.reach-blog {
   .acr-subtitle {
     line-height: 20px;
