@@ -1,6 +1,7 @@
 <?php /*  Mods
 8Dec16 zig - remove post bottom tags
 13Dec16 zig - remove social share (put into content)
+17Deec17 zig - use h1 tag for single posts
 */
 $page_id = be_get_page_id();
 global $blog_attr;
@@ -32,7 +33,11 @@ $post_format = get_post_format();
 							echo '</div>';
 							get_template_part( 'content', $post_format );
 						else :
-							echo '<h5 class="post-title"><a href="'.get_permalink(get_the_ID()).'">'.get_the_title(get_the_ID()).'</a></h5>';
+							if ( is_single() ) { /* zig use h1 for single posts */
+								echo '<h1 class="post-title"><a href="'.get_permalink(get_the_ID()).'">'.get_the_title(get_the_ID()).'</a></h5>';
+							} else {
+								echo '<h5 class="post-title"><a href="'.get_permalink(get_the_ID()).'">'.get_the_title(get_the_ID()).'</a></h5>';
+							}
 							$subtitle = get_post_meta(get_the_ID(),"property_options_subtitle", true);
 					    if ($subtitle) {
 					      echo '<h6 class="acr-subtitle">'.$subtitle."</h6>";
