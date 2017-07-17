@@ -89,6 +89,12 @@ div.hr-logo hr:after {
     position: relative;
     top: -12px; /* half the height of the ornament */
 }
+.post-bottom-details .reach-post-props { // property opions on archive page/shortcode
+  padding-bottom: 10px;
+  color: $acr-dk-brown;
+  font-size: 1.5em;
+  line-height: 1.8em;
+}
 .single-page-att {
     margin-bottom: 0px;
 }
@@ -133,6 +139,14 @@ div.hr-logo hr:after {
             .post-content {
               .acr-primary-image {
                 width: 100%;
+              }
+              .reach-post-props { // property opions on single pages (via shortcode)
+                color: $acr-dk-brown;
+                font-weight: bold;
+                i {
+                  font-size: 1.5em;
+                  padding-right: 5px;
+                }
               }
             }
         }

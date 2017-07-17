@@ -40,6 +40,10 @@ function property_options_html( $post) {
   	     <input style="width: 90%; min-width:130px;"type="text" with="40" name="property_options_subtitle" id="property_options_subtitle" value="<?php echo property_options_get_meta( 'property_options_subtitle' ); ?>">
       </div>
     </div> <!-- field end wrapper -->
+		<div class="rwmb-field rwmb-checkbox-wrapper">
+			<input type="checkbox" name="property_options_pet_friendly" id="property_options_pet_friendly" value="pet-friendly" <?php echo ( property_options_get_meta( 'property_options_pet_friendly' ) === 'pet-friendly' ) ? 'checked' : ''; ?>>
+			<label for="property_options_pet_friendly"><?php _e( 'Pet friendly', 'property_options' ); ?></label>	</p>	<p>
+			</div>
 	</div>
   <?php
 }
@@ -51,9 +55,15 @@ function property_options_save( $post_id ) {
 
 	if ( isset( $_POST['property_options_subtitle'] ) )
 		update_post_meta( $post_id, 'property_options_subtitle', esc_attr( $_POST['property_options_subtitle'] ) );
+
+	if ( isset( $_POST['property_options_pet_friendly'] ) )
+		update_post_meta( $post_id, 'property_options_pet_friendly', esc_attr( $_POST['property_options_pet_friendly'] ) );
+	else
+		update_post_meta( $post_id, 'property_options_pet_friendly', null );
 }
 add_action( 'save_post', 'property_options_save' );
 
 /*
 	Usage: property_options_get_meta( 'property_options_subtitle' )
+	Usage: property_options_get_meta( 'property_options_pet_friendly' )
 */

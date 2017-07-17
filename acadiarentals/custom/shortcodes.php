@@ -71,3 +71,16 @@ if ( ! function_exists( 'reach_share_buttons' ) ) {
 	}
 	add_shortcode('reach_share_buttons', 'reach_share_buttons');
 }
+
+if ( ! function_exists( 'reach_property_options' ) ) {
+	function reach_property_options( $atts, $content ) {
+		$pet_friendly = get_post_meta( get_the_ID(), 'property_options_pet_friendly', true);
+		if($pet_friendly) {
+				$html_ret .= '<div class="reach-post-props">';
+				$html_ret .= '<i class="fa fa-paw" aria-hidden="true"></i> Pet Friendly';
+				$html_ret .= '</div>';
+		}
+		return $html_ret;
+	}
+	add_shortcode('reach_property_options', 'reach_property_options');
+}
