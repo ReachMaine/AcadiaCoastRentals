@@ -68,8 +68,8 @@ if ( isset($be_themes_data['mobile_bg_controller']) && !empty($be_themes_data['m
 ?>
 
 	<header id="header">
-		<?php
-			if ( isset($be_themes_data['opt-header-type']) && ('top' == $be_themes_data['opt-header-type'] ) ) {
+		<?php /* 14Aug17 zig - dont show topbar for singele site page template */
+			if ( !is_page_template('page-singlesite.php') && isset($be_themes_data['opt-header-type']) && ('top' == $be_themes_data['opt-header-type'] ) ) {
 				if(isset($be_themes_data['opt-noshow-topbar']) && $be_themes_data['opt-noshow-topbar'] == 1){
 					if(count($be_themes_data['opt-topbar-widgets-pos']['left']) > 1 || count($be_themes_data['opt-topbar-widgets-pos']['right']) > 1 ) {?>
 						<div id="header-top-bar">
@@ -97,6 +97,7 @@ if ( isset($be_themes_data['mobile_bg_controller']) && !empty($be_themes_data['m
 					}
 				}
 		}?>
+		<?php if (!is_page_template('page-singlesite.php') ) { /* 14Aug17 zig - dont show logo or widgets */ ?>
 		<div id="header-inner-wrap" class="<?php echo $header_class; echo ' '.$header_style; ?>" <?php echo ' '.$full_screen_header_scheme; ?>>
 			<?php
 				extract(be_themes_calculate_logo_height());
@@ -200,5 +201,6 @@ if ( isset($be_themes_data['mobile_bg_controller']) && !empty($be_themes_data['m
 			<div class="clearfix"><?php
 				be_themes_get_header_mobile_navigation();?>
 			</div>
-		</div>
+		</div> <!-- inner-header-wrap -->
+	<?php } ?>
 	</header> <!-- END HEADER -->
