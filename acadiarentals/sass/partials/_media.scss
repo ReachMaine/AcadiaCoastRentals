@@ -28,6 +28,23 @@
 	.hero-section-wrap {
 		height: 200px!important;
 	}
+	// tighten up header here
+	#header {
+		#header-inner-wrap {
+			#header-controls-right {
+				margin-right: 0px;
+				.header-code-widgets {
+					margin-left: 0px;
+					.tatsu-icon-shortcode .tatsu-icon {
+						margin-right: 0px;
+					}
+				}
+				.sliderbar-nav-controller-wrap {
+				}
+			}
+		}
+	}
+
 }
 
 @media only screen and (min-width: 768px)  {
