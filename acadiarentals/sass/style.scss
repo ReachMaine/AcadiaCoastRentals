@@ -235,6 +235,31 @@ body.search.search-results {
         }
     }
 }
+// under content widget area
+#reach-under-content {
+  .widget.abom-menu-across {
+    margin-bottom: 0px;
+    ul.menu {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      li:before {
+        content: none;
+      }
+      li {
+        display: list-item;
+        margin: auto;
+        padding-left: 0px;
+        a {
+          font-size: 1.3em;
+          line-height: 1.3em;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}
 // bottom cta
 #reach-bottom-cta {
   padding-top: 30px;
