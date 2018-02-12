@@ -242,13 +242,12 @@ body.search.search-results {
     ul.menu {
       padding-top: 10px;
       padding-bottom: 10px;
-      display: flex;
-      flex-wrap: wrap;
+      text-align: right;
       li:before {
         content: none;
       }
       li {
-        display: list-item;
+        display: inline-block;
         margin: auto;
         padding-left: 0px;
         a {
@@ -256,6 +255,13 @@ body.search.search-results {
           line-height: 1.3em;
           font-weight: bold;
         }
+
+      }
+      li:after {
+        content: " | ";
+      }
+      li:last-child:after {
+        content: "";
       }
     }
   }
