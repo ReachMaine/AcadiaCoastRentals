@@ -1,14 +1,23 @@
 <?php
-/* mods 
-	10Oct16 zig - add widget area above bottom-widgets for reach CTA 
+/* mods
+	10Oct16 zig - add widget area above bottom-widgets for reach CTA
+	12Feb18 zig - add widget area under content
  */
-	if (is_active_sidebar('reach-bottom-cta')) { 
-		echo '<footer id="reach-bottom-cta">';
-			echo '<div id="reach-bottom-cta-wrap" class="be-wrap be-row clearfix">';
-			dynamic_sidebar( 'reach-bottom-cta'); 
-			echo '</div>';
-		echo '</footer>';
+ if (is_active_sidebar('reach-under-content')) {
+	 echo '<div id="reach-under-content">';
+		 echo '<div id="reach-under-content-wrap" class="be-wrap be-row clearfix">';
+		    dynamic_sidebar( 'reach-under-content');
+		 echo '</div><!-- under content wrap -->';
+	 echo '</div><!-- under content -->';
+ }
+	if (is_active_sidebar('reach-bottom-cta')) {
+	 echo '<footer id="reach-bottom-cta">';
+		 echo '<div id="reach-bottom-cta-wrap" class="be-wrap be-row clearfix">';
+		 dynamic_sidebar( 'reach-bottom-cta');
+		 echo '</div>';
+	 echo '</footer>';
 	}
+
 	global $be_themes_data;
 	$post_id = be_get_page_id();
 	$show_bottom_widgets = get_post_meta($post_id, 'be_themes_bottom_widgets', true);
@@ -43,13 +52,13 @@
 			<div id="bottom-widgets-wrap" class="be-wrap be-row clearfix">
 				<?php for($j = 1; $j <= $i; $j++) : ?>
 					<div class="<?php echo $col_class; ?> column-block clearfix">
-						<?php 
+						<?php
 							if ( is_active_sidebar( 'footer-widget-'.$j ) ) {
 								dynamic_sidebar( 'footer-widget-'.$j );
 							}
 						?>
 					</div>
-				<?php endfor; ?>	
+				<?php endfor; ?>
 			</div>
 		</footer>
 	<?php } ?>
