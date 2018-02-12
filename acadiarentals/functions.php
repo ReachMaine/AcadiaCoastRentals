@@ -27,6 +27,18 @@ add_action('wp_enqueue_scripts','enqueue_our_required_stylesheets');
            'after_title'   => '</h6>',
       )
     );
+
+    register_sidebar(
+      array(
+           'name' => __( 'Under Content ', 'be-themes' ),
+           'id'   => 'reach-under-content',
+           'description'   => __( 'Widget area under content area', 'be-themes' ),
+           'before_widget' => '<div class="%2$s widget">',
+           'after_widget'  => '</div>',
+           'before_title'  => '<h6>',
+           'after_title'   => '</h6>',
+      )
+    );
   }
   add_action( 'widgets_init', 'reach_widgets_init' );
 
