@@ -1,5 +1,7 @@
 <?php
-/* zig - use shortcodes style -- */
+/* zig - use shortcodes style --
+       -- display description
+*/
 get_header();
 $page_id = be_get_page_id();
 global $be_themes_data, $blog_attr;
