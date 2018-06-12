@@ -34,6 +34,15 @@ if($blog_attr['style'] == 'style3' && $blog_attr['gutter_style'] == 'style2') {
 				get_template_part( 'page-breadcrumb' );
 			}
 		?>
+		<?php  // zig category descript
+			$cat_desc = category_description();
+		 if ($cat_desc) {
+			 echo '<div class="be-wrap clearfix">';
+			 echo do_shortcode($cat_desc);
+			 echo '</div>';
+		 }
+		?>
+
 	</div> <!--  End Page Content -->
 </section>
 <section id="content" class="<?php echo esc_attr( $sidebar ); ?>-sidebar-page">
