@@ -110,7 +110,8 @@
 		<div id="main" class="ajaxable <?php echo $layout; ?>" >
 			<?php
 				$post_id = be_get_page_id();
-				if(is_singular( 'post' ) && is_single($post_id) && isset($be_themes_data['single_blog_hero_section_from']) && $be_themes_data['single_blog_hero_section_from'] == 'inherit_option_panel') {
+				// zig:  add is_archive to chedk
+				if ( ( (is_singular( 'post' ) && is_single($post_id) ) || is_archive() ) && isset($be_themes_data['single_blog_hero_section_from']) && $be_themes_data['single_blog_hero_section_from'] == 'inherit_option_panel') {
 					if(!empty($be_themes_data['single_blog_hero_section_position']) && isset($be_themes_data['single_blog_hero_section_position']) && $be_themes_data['single_blog_hero_section_position'] ) {
 						$top_section_position = $be_themes_data['single_blog_hero_section_position'];
 					} else {
@@ -136,6 +137,7 @@
 					$top_section_position = get_post_meta($post_id, 'be_themes_hero_section_position', true);
 					$header_transparent = get_post_meta($post_id, 'be_themes_header_transparent', true);
 				}
+				/* echo "<!--- top_section_position is: {".$top_section_position."} and header_transparent is: {".$header_transparent."} -->"; */
 				if($top_section_position == 'before' && !(!empty($header_transparent) && isset($header_transparent) && $header_transparent && $header_transparent != 'none')) {
 					get_template_part( 'headers/top', 'section' );
 				}

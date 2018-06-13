@@ -3,7 +3,9 @@
 */
 global $be_themes_data;
 $post_id = be_get_page_id();
-if(is_singular( 'post' ) && is_single($post_id) && isset($be_themes_data['single_blog_hero_section_from']) && $be_themes_data['single_blog_hero_section_from'] == 'inherit_option_panel') {
+// zig add is_archive to test
+if ( ( (is_singular( 'post' ) && is_single($post_id) ) || is_archive() ) && isset($be_themes_data['single_blog_hero_section_from']) && $be_themes_data['single_blog_hero_section_from'] == 'inherit_option_panel') {
+	echo "<!-- in content-header post if with archive -->";
 	if(!empty($be_themes_data['single_blog_header_transparent']) && isset($be_themes_data['single_blog_header_transparent']) && 'none' != $be_themes_data['single_blog_header_transparent'] ) {
 		$header_transparent = $be_themes_data['single_blog_header_transparent'];
 	} else {
@@ -33,7 +35,7 @@ if(is_singular( 'post' ) && is_single($post_id) && isset($be_themes_data['single
 	$color_scheme = get_post_meta($post_id, 'be_themes_header_transparent_color_scheme', true);
 }
 $header_class = $full_screen_header_scheme = '';
-
+echo "<!-- header_transparent in content_header is: {".$header_transparent."} -->";
 if(!empty($header_transparent) && isset($header_transparent) && 'none' != $header_transparent) {
 	if($be_themes_data['layout'] == 'layout-border-header-top') {
 		$header_class = 'no-transparent';
@@ -43,6 +45,7 @@ if(!empty($header_transparent) && isset($header_transparent) && 'none' != $heade
 		$header_class = 'semi-transparent';
 	}
 }
+
 if((!empty($header_transparent) && isset($header_transparent) && 'none' != $header_transparent) && (!empty($hero_section) && isset($hero_section) && $hero_section != 'none')) {
 	if(!empty($color_scheme) && isset($color_scheme) && $color_scheme) {
 		if($color_scheme == 'dark') {
@@ -64,7 +67,7 @@ if ( isset($be_themes_data['opt-header-type']) && ('top' == $be_themes_data['opt
 if ( isset($be_themes_data['mobile_bg_controller']) && !empty($be_themes_data['mobile_bg_controller']) ){
 	$header_class .= ' exclusive-mobile-bg';
 }
-
+echo "<!-- header_class in content_header is: {".	$header_class."} -->";
 ?>
 
 	<header id="header">
