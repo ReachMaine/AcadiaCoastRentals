@@ -2,7 +2,7 @@
 if(is_category()) {
 	echo single_cat_title( '', false );
 } elseif(is_tag()) {
-	echo __('Articles Tagged with: ','oshin').single_tag_title( '', false );
+	echo __('Properties: ','oshin').single_tag_title( '', false );
 } elseif (is_search()) {
 	echo __('Search Results for: ','oshin').get_search_query();
 } elseif(is_archive() && (is_tax( 'portfolio_categories' ) || is_tax( 'portfolio_tags' ))) {
