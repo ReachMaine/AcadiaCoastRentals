@@ -15,7 +15,7 @@
 		$hero_section_pfx = "";
 		$hero_source = "page" ;
 	}
-/* echo "<!-- hero source = {".$hero_source."} -->"; */
+ echo "<!-- hero source = {".$hero_source."} and hero_section is: {".$hero_section."} -->"; 
 	if ('op' == $hero_source) {
 		$hero_section = $be_themes_data[$hero_section_pfx.'_hero_section'];
 		if($hero_section && !empty($hero_section) && $hero_section != 'none') {
