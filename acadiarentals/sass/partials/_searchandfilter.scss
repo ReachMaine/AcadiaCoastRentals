@@ -4,7 +4,7 @@
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: 20px;
-
+    font-size: 1.2em;
   }
   ul {
     margin-top: 0px;
@@ -13,7 +13,20 @@
       display: block;
       margin-bottom: 5px;
     }
+    li.sf-field-category {
+      width: 40%;
+      float: left;
+    }
+    ul {
+      li {
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+    }
   }
 
+}
+.search-filter-results {
+  clear: both;
 }
 /* end of styling for filter and search plugin */

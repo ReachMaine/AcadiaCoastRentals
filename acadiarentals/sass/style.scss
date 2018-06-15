@@ -64,6 +64,9 @@ Version: 1.2.1
 }
 /* end slidebar */
 
+.no-sidebar-page #content-wrap.no-page-builder  {
+  padding-top: 0px;
+}
 .single-post { // stuff for single post.
   #header {
     #header-inner-wrap {
