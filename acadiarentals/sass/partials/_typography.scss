@@ -49,4 +49,9 @@ p:empty  {
 hr.tatsu-divider {
 	overflow: visible;
 }
+.abom-txt-tight { // on column (or section?)
+	.tatsu-module.tatsu-text-inner {
+		margin-bottom: 0px!important;
+	}
+}
 /* ----------- end typography ----------- */

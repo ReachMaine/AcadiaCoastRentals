@@ -1,0 +1,4 @@
+style notes
+
+abom-text-tight
+   used to modify the text block bottom margin within a column.
