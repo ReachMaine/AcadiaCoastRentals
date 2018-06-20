@@ -26,9 +26,7 @@
   }
 
 }
-.search-filter-results {
-  clear: both;
-}
+
 .abom-filter-2col { // class on column
   .searchandfilter {
     ul {
@@ -44,10 +42,24 @@
   }
 }
 .search-filter-results {
+  clear: both;
+}
+.search-filter-results {
   .search-filter-count-wrap {
     .search-filter-count {
       text-align: right;
       padding-bottom: 10px;
+    }
+  }
+  .column-block {
+    margin-bottom: 20px;
+    article {
+      .article-details {
+        padding-top: 10px;
+      }
+      .post-bottom-details {
+        display: block;
+      }
     }
   }
 }
