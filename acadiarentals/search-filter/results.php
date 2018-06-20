@@ -27,9 +27,9 @@ if ( $query->have_posts() )
 
 	?>
 
-	Found <?php echo $query->found_posts; ?> Results<br />
-	Page <?php echo $query->query['paged']; ?> of <?php echo $query->max_num_pages; ?><br />
-
+	<div class="search-filter-count-wrap"><div class="search-filter-count">Found <?php echo $query->found_posts; ?> Results<br /></div>
+		<?php /* <div class="search-filter-pagination"> Page <?php echo $query->query['paged']; ?> of <?php echo $query->max_num_pages; ?><br /></div> */ ?>
+	</div>
 	<div class="pagination">
 
 		<div class="nav-previous"><?php next_posts_link( 'Older posts', $query->max_num_pages ); ?></div>

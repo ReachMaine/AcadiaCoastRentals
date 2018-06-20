@@ -29,4 +29,26 @@
 .search-filter-results {
   clear: both;
 }
+.abom-filter-2col { // class on column
+  .searchandfilter {
+    ul {
+      padding-left: 5px;
+      li>ul>li {
+        width: 50%;
+        float: left;
+        label {
+          padding-left: 4px;
+        }
+      }
+    }
+  }
+}
+.search-filter-results {
+  .search-filter-count-wrap {
+    .search-filter-count {
+      text-align: right;
+      padding-bottom: 10px;
+    }
+  }
+}
 /* end of styling for filter and search plugin */

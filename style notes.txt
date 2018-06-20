@@ -2,3 +2,6 @@ style notes
 
 abom-text-tight
    used to modify the text block bottom margin within a column.
+
+abom-filter-2col
+   used to put the searchandfilter into two columns
