@@ -13,10 +13,7 @@
       display: block;
       margin-bottom: 5px;
     }
-    li.sf-field-category {
-      width: 40%;
-      float: left;
-    }
+
     ul {
       li {
         padding-top: 0px;
@@ -31,16 +28,35 @@
   .searchandfilter {
     ul {
       padding-left: 5px;
-      li>ul>li {
+      /* li>ul>li {
         width: 50%;
         float: left;
         label {
           padding-left: 4px;
         }
+      }*/
+      ul {
+        column-count: 2;
       }
     }
   }
 }
+#search-filter-form-3945 { // specific to global search ID 3945.
+  ul {
+    li.sf-field-category {
+        width: 33%;
+        float: left;
+      }
+    li.sf-field-tag {
+      width: 66%;
+      float: left;
+      ul {
+        column-count: 3;
+      }
+    }
+  }
+}
+
 .search-filter-results {
   clear: both;
 }
@@ -59,6 +75,19 @@
       }
       .post-bottom-details {
         display: block;
+      }
+    }
+  }
+}
+// media stuff for searchandfilter
+@media only screen and (max-width: 480px) {
+  #search-filter-form-3945 { // specific to global search ID 3945.
+    ul {
+      li.sf-field-category {
+          width: 100%;
+        }
+      li.sf-field-tag {
+        width: 100%;
       }
     }
   }
