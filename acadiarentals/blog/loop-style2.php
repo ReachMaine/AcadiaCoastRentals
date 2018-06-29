@@ -42,6 +42,11 @@ $post_format = get_post_format();
 					    if ($subtitle) {
 					      echo '<h6 class="acr-subtitle">'.$subtitle."</h6>";
 					    }
+							// display first category
+							$categories = get_the_category();
+ 							if ( ! empty( $categories ) ) {
+							    echo '<div class="acr-prop-category">'.esc_html( $categories[0]->name ).'</div>';
+							}
 						endif;
 					?>
 				</header>

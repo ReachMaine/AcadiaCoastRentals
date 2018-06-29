@@ -160,6 +160,19 @@ div.hr-logo hr:after {
         margin-bottom: 0px;
         .post-content-wrap {
             margin-bottom: 0px; // SO MUCH AIR!
+            .post-header {
+              .acr-subtitle {
+                float: left;
+              }
+              .acr-prop-category {
+                float: right;
+                background-color: $acr-green;
+                padding: 0 15px;
+                color: white;
+                line-height: 1.4em;
+                font-size: 1.3em;
+              }
+            }
             .post-content {
               .acr-primary-image {
                 width: 100%;
