@@ -150,6 +150,18 @@ div.hr-logo hr:after {
         //color: $acr-green;
     }
 }
+// show more/ show less shortcode links
+.sh-link.pressrelease-link {
+  text-align: center;
+  font-weight: bold;
+  a {
+      border-bottom: 1px solid $acr-green;
+  }
+}
+.sh-link.pressrelease-link.sh-show {
+  padding-bottom: 10px;
+}
+
 .single-post {
   #content {
     padding-bottom: 0px;
