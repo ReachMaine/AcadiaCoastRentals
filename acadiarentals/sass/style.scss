@@ -19,6 +19,11 @@ Version: 1.2.1
     font-size: 1.8em;
     line-height: 1.65em;
 }
+#header .header-code-widgets {
+  .tatsu-module {
+    display: inline-block;
+  }
+}
 /*  mobile menu/ slidebar */
 .sb-slidebar  {
     height: initial;
