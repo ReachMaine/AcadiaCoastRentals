@@ -55,7 +55,6 @@ if ( $query->have_posts() )
 			echo '<div class="one-'.$column.' column-block be-hoverlay">';
 			get_template_part( 'blog/loop', $blog_attr['style'] );
 			echo '</div>'; // end column block
-		$output .= '</div>';
 	}
 	echo '</div>'; // end of related-item;
 	?>
