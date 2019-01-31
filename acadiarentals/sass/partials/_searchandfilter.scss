@@ -13,14 +13,18 @@
       display: block;
       margin-bottom: 5px;
     }
-
+    li[data-sf-field-input-type=checkbox] label {
+      padding-left: 2px;
+    }
     ul {
+      padding-left: 8px;
       li {
         padding-top: 0px;
         padding-bottom: 0px;
       }
     }
   }
+
 
 }
 
@@ -41,21 +45,23 @@
     }
   }
 }
-#search-filter-form-3945 { // specific to global search ID 3945.
-  ul {
-    li.sf-field-category {
-        width: 33%;
+@media only screen and ( min-width: 768px ) {
+  #search-filter-form-3945 { // specific to global search ID 3945.
+    ul {
+      li.sf-field-category {
+          width: 33%;
+          float: left;
+        }
+      li.sf-field-tag {
+        width: 66%;
         float: left;
-      }
-    li.sf-field-tag {
-      width: 66%;
-      float: left;
-      ul {
-        column-count: 3;
+        ul {
+          column-count: 3;
+        }
       }
     }
   }
-}
+} // styling of specific filter at desktop size
 
 .search-filter-results {
   clear: both;
