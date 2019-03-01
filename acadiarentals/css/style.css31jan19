@@ -1,0 +1,368 @@
+/*
+Theme Name: Acadia Coastal Rentrals
+Description: Oshin Child Theme for Acadia Coastal Rentrals
+Author: Reach Maine
+Template: oshin
+Version: 1.2.1
+*/
+@import url("../oshin/style.css");
+/* ----------- Colors ---------------------------------- */
+/* ----------- end Colors ----------- */
+/* ----------- Typography ------------------------------- */
+i.fa-pull-left {
+  float: left;
+  padding-right: 5px; }
+
+i.fa-pull-right {
+  float: right;
+  padding-left: 5px; }
+
+h6.acr-subtitle {
+  font-size: 1.5em; }
+
+.tatsu-button {
+  text-transform: none;
+  font-weight: bold; }
+
+.acr-subtitle {
+  font-weight: normal;
+  color: #333; }
+
+.be-button-wrap a.be-button,
+.be-button-wrap a.tatsu-button,
+.tatsu-button-wrap a.be-button,
+.tatsu-button-wrap a.tatsu-button {
+  text-transform: none;
+  font-size: 26px;
+  line-height: 32px; }
+.be-button-wrap a.be-button.blockbtn,
+.be-button-wrap a.tatsu-button.blockbtn,
+.tatsu-button-wrap a.be-button.blockbtn,
+.tatsu-button-wrap a.tatsu-button.blockbtn {
+  padding-left: 5px;
+  padding-right: 5px; }
+
+.be-button-wrap.align-block {
+  margin-bottom: 20px !important; }
+
+.element .post-content img {
+  max-width: 100%; }
+
+p:empty {
+  display: none; }
+
+hr.tatsu-divider {
+  overflow: visible; }
+
+.abom-txt-tight .tatsu-module.tatsu-text-inner {
+  margin-bottom: 0px !important; }
+
+/* ----------- end typography ----------- */
+/* css for the booking calendar widget */
+.wpsbc-container .wpsbc-calendar {
+  margin-left: 0px; }
+.wpsbc-container .wpsbc-legend {
+  margin-left: 0px; }
+  .wpsbc-container .wpsbc-legend .wpsbc-legend-color {
+    width: 15px;
+    height: 15px; }
+  .wpsbc-container .wpsbc-legend .wpsbc-legend-item p {
+    font-size: 10px !important;
+    line-height: 19px !important; }
+
+/* styling for filter and search plugin */
+.searchandfilter h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 20px;
+  font-size: 1.0em; }
+.searchandfilter ul {
+  margin-top: 0px;
+  margin-bottom: 5px; }
+  .searchandfilter ul li {
+    display: block;
+    margin-bottom: 5px; }
+  .searchandfilter ul li[data-sf-field-input-type=checkbox] label {
+    padding-left: 2px; }
+  .searchandfilter ul ul {
+    padding-left: 8px; }
+    .searchandfilter ul ul li {
+      padding-top: 0px;
+      padding-bottom: 0px; }
+
+.abom-filter-2col .searchandfilter ul {
+  padding-left: 5px;
+  /* li>ul>li {
+    width: 50%;
+    float: left;
+    label {
+      padding-left: 4px;
+    }
+  }*/ }
+  .abom-filter-2col .searchandfilter ul ul {
+    column-count: 2; }
+
+@media only screen and (min-width: 768px) {
+  #search-filter-form-3945 ul li.sf-field-category {
+    width: 33%;
+    float: left; }
+  #search-filter-form-3945 ul li.sf-field-tag {
+    width: 66%;
+    float: left; }
+    #search-filter-form-3945 ul li.sf-field-tag ul {
+      column-count: 3; } }
+.search-filter-results {
+  clear: both; }
+
+.search-filter-results .search-filter-count-wrap .search-filter-count {
+  text-align: right;
+  padding-bottom: 10px; }
+.search-filter-results .column-block {
+  margin-bottom: 20px; }
+  .search-filter-results .column-block article .article-details {
+    padding-top: 10px; }
+  .search-filter-results .column-block article .post-bottom-details {
+    display: block; }
+
+@media only screen and (max-width: 480px) {
+  #search-filter-form-3945 ul li.sf-field-category {
+    width: 100%; }
+  #search-filter-form-3945 ul li.sf-field-tag {
+    width: 100%; } }
+/* end of styling for filter and search plugin */
+#header .header-code-widgets i.font-icon:before,
+#header .header-code-widgets i.tatsu-icon:before {
+  font-size: 1.8em;
+  line-height: 1.65em; }
+
+#header .header-code-widgets .tatsu-module {
+  display: inline-block; }
+
+/*  mobile menu/ slidebar */
+.sb-slidebar {
+  height: initial;
+  max-width: 280px;
+  border-bottom: 1px solid #eeeeee; }
+  .sb-slidebar .overlay-menu-close {
+    top: 10px;
+    margin-top: 0px; }
+  .sb-slidebar #sb-slidebar-content #logo-sidebar {
+    background-color: #2a5c13;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 15px; }
+    .sb-slidebar #sb-slidebar-content #logo-sidebar img {
+      width: 80%; }
+  .sb-slidebar #sb-slidebar-content .menu {
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px; }
+    .sb-slidebar #sb-slidebar-content .menu #slidebar-menu a {
+      font-size: 1.2em;
+      line-height: 1.4em; }
+    .sb-slidebar #sb-slidebar-content .menu .widget {
+      border-left: 1px solid #eeeeee; }
+  .sb-slidebar #sb-slidebar-content .widget_search {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px; }
+
+/* end slidebar */
+.no-sidebar-page #content-wrap.no-page-builder {
+  padding-top: 0px; }
+
+.single-post #header #header-inner-wrap .sliderbar-nav-controller-wrap .be-mobile-menu-icon,
+.single-post #header #header-inner-wrap .sliderbar-nav-controller-wrap .be-mobile-menu-icon:before,
+.single-post #header #header-inner-wrap .sliderbar-nav-controller-wrap .be-mobile-menu-icon:after {
+  background-color: #ffffff; }
+.single-post #hero-section .hero-section-wrap {
+  background: url(./images/fir-bough-blog-header-flop.jpg) left top repeat scroll; }
+
+.home .portfolio-all-wrap article .article-details {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px; }
+
+div.hr-logo {
+  margin-bottom: 0px !important; }
+
+div.hr-logo hr:after {
+  background: url("./images/pine-cone-3-with-green-background.png") no-repeat top center;
+  content: "";
+  display: block;
+  height: 25px;
+  /* height of the ornament */
+  position: relative;
+  top: -12px;
+  /* half the height of the ornament */ }
+
+.post-bottom-details .reach-post-props {
+  padding-bottom: 10px;
+  color: #3c2013;
+  font-size: 1.5em;
+  line-height: 1.8em; }
+
+.single-page-att {
+  margin-bottom: 0px; }
+
+.page-title-module-custom h1.page-title-custom {
+  margin-bottom: 0px; }
+
+.related-items.reach-blog {
+  /*
+    .one-fourth {
+      width: 23%;
+      margin-left: 2%;
+    }
+    .one-fourth:nth-child(4n+1) {
+      clear: both;
+      margin-left: 0px;
+    } // every fourth child*/ }
+  .related-items.reach-blog .acr-subtitle {
+    line-height: 20px; }
+
+.reach-share-wrap {
+  padding-top: 10px; }
+  .reach-share-wrap h6 {
+    float: left; }
+
+.sh-link.pressrelease-link {
+  text-align: center;
+  font-weight: bold; }
+  .sh-link.pressrelease-link a {
+    border-bottom: 1px solid #2a5c13; }
+
+.sh-link.pressrelease-link.sh-show {
+  padding-bottom: 10px; }
+
+.single-post #content {
+  padding-bottom: 0px; }
+  .single-post #content #content-wrap {
+    padding-bottom: 0px;
+    padding-top: 30px; }
+    .single-post #content #content-wrap article {
+      margin-bottom: 0px; }
+      .single-post #content #content-wrap article .post-content-wrap {
+        margin-bottom: 0px; }
+        .single-post #content #content-wrap article .post-content-wrap .post-header .acr-subtitle {
+          float: left; }
+        .single-post #content #content-wrap article .post-content-wrap .post-header .acr-prop-category {
+          float: right;
+          background-color: #2a5c13;
+          padding: 0 15px;
+          color: white;
+          line-height: 1.4em;
+          font-size: 1.3em; }
+        .single-post #content #content-wrap article .post-content-wrap .post-content .acr-primary-image {
+          width: 100%; }
+        .single-post #content #content-wrap article .post-content-wrap .post-content .reach-post-props {
+          color: #3c2013;
+          font-weight: bold; }
+          .single-post #content #content-wrap article .post-content-wrap .post-content .reach-post-props i {
+            font-size: 1.5em;
+            padding-right: 5px; }
+.single-post #cooler-nav {
+  clear: both;
+  height: 100px; }
+  .single-post #cooler-nav .nav-box {
+    background: #e6f3f7;
+    padding: 10px;
+    margin-bottom: 30px; }
+    .single-post #cooler-nav .nav-box i.fa {
+      font-size: 2em;
+      color: #73a4a3; }
+  .single-post #cooler-nav img {
+    margin: 0 10px 0 0; }
+  .single-post #cooler-nav .previous {
+    float: left;
+    vertical-align: middle;
+    width: 250px;
+    height: 100px; }
+    .single-post #cooler-nav .previous img {
+      float: right;
+      margin-right: 0px;
+      margin-left: 10px; }
+  .single-post #cooler-nav .next {
+    float: right;
+    width: 250px; }
+    .single-post #cooler-nav .next img {
+      float: left; }
+    .single-post #cooler-nav .next h6 {
+      text-align: right; }
+    .single-post #cooler-nav .next i.fa {
+      float: right; }
+
+.be-row.zero-bottom {
+  margin-bottom: 0px !important; }
+
+body.search.search-results .style2-blog article .post-thumb {
+  max-width: 280px; }
+body.search.search-results .style2-blog article .article-details .post-title {
+  font-size: 24px; }
+body.search.search-results .style2-blog article .article-details .acr-subtitle {
+  font-size: initial; }
+
+#reach-under-content .widget.abom-menu-across {
+  margin-bottom: 0px; }
+  #reach-under-content .widget.abom-menu-across ul.menu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: right; }
+    #reach-under-content .widget.abom-menu-across ul.menu li:before {
+      content: none; }
+    #reach-under-content .widget.abom-menu-across ul.menu li {
+      display: inline-block;
+      margin: auto;
+      padding-left: 0px; }
+      #reach-under-content .widget.abom-menu-across ul.menu li a {
+        font-size: 1.3em;
+        line-height: 1.3em;
+        font-weight: bold; }
+    #reach-under-content .widget.abom-menu-across ul.menu li:after {
+      content: " | "; }
+    #reach-under-content .widget.abom-menu-across ul.menu li:last-child:after {
+      content: ""; }
+
+#reach-bottom-cta {
+  padding-top: 30px;
+  background-color: #f7e4c3; }
+
+#footer a.reach-logo {
+  color: white; }
+#footer .reach-logo:before {
+  content: url("images/reach-favicon.png");
+  padding-right: 4px; }
+
+/* *** keep this at the end *** */
+/* **** media **** */
+@media only screen and (min-width: 768px) {
+  #header #header-inner-wrap #header-controls-right .sliderbar-nav-controller-wrap {
+    display: none; } }
+@media only screen and (max-width: 767px) {
+  #header #header-top-bar {
+    display: none; }
+
+  #content-wrap .column-block {
+    margin-bottom: 0px; } }
+@media only screen and (max-width: 480px) {
+  .hero-section-wrap {
+    height: 200px !important; }
+
+  #header #header-inner-wrap #header-controls-right {
+    margin-right: 0px; }
+    #header #header-inner-wrap #header-controls-right .header-code-widgets {
+      margin-left: 0px; }
+      #header #header-inner-wrap #header-controls-right .header-code-widgets .tatsu-icon-shortcode .tatsu-icon {
+        margin-right: 0px; } }
+@media only screen and (min-width: 768px) {
+  .related-items.reach-blog .one-fourth {
+    width: 23%;
+    margin-left: 2%; }
+  .related-items.reach-blog .one-fourth:nth-child(4n+1) {
+    clear: both;
+    margin-left: 1%; } }
+@media only screen and (max-width: 320px) {
+  .logo {
+    max-width: 60% !important; } }

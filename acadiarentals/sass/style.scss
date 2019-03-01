@@ -203,6 +203,13 @@ div.hr-logo hr:after {
                 }
               }
             }
+            .tatsu-module.tatsu-gmap-wrapper {
+              .tatsu-gmap {
+                  .gm-control-active>img {
+                    position: absolute!important;
+                  }
+              }
+            } // end gmap
         }
       }
     }
