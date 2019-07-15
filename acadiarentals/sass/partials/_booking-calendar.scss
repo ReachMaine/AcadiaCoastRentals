@@ -16,3 +16,19 @@
         }
     }
 }
+
+.wpsbc-overview-container {
+    .wpsbc-overview-row-header {
+      //width: 180px!important;
+        .wpsbc-calendar-header-inner {
+          font-size: 14px;
+          line-height: 16px;
+          .custom-tooltip {
+            display: block;
+            max-width: 80px;
+            //float: left;
+            //margin-right: 5px;
+          }
+        }
+    }
+}
