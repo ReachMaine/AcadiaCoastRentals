@@ -1,0 +1,40 @@
+/* styling for gravity forms. */
+.gform_wrapper {
+  border: 1px solid $acr-green;
+  padding-left: 10px;
+  form {
+    .gform_heading {
+      .gform_title {
+        text-align: center;
+      }
+    }
+    .gform_body {
+      ul.gform_fields {
+        li.gfield {
+          textarea {
+            background-color: white;
+          }
+        }
+
+        li.gfield.reach_gf_hide_title {
+          label.gfield_label {
+            display: none;
+          }
+        }
+      }
+    }
+    .gform_footer {
+      text-align: right;
+      /* input[type=submit] {
+         background-color: $bam-lighter-blue;
+         color: white;
+       }
+       input[type=submit]:hover {
+         background-color: #242425;
+         border-color: #4985FF;
+       }
+       */
+
+    }
+  }
+}
