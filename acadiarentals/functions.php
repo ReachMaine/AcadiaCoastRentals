@@ -57,4 +57,12 @@ function reach_subtitle_to_post($title, $id) {
   }
   return $title;
 } */
+// add filter for next & prev post to orde by menu-order.
+/* not using yet.... save for later, maybe...
+function wpse73190_adjacent_post_sort( $orderby )
+{
+    return "ORDER BY p.menu_order DESC LIMIT 1";
+} */
+//add_filter( 'get_previous_post_sort', 'wpse73190_adjacent_post_sort' );
+//add_filter( 'get_next_post_sort', 'wpse73190_adjacent_post_sort' );
 ?>
