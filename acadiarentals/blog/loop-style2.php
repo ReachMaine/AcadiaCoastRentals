@@ -2,7 +2,9 @@
 8Dec16 zig - remove post bottom tags
 13Dec16 zig - remove social share (put into content)
 17Deec17 zig - use h1 tag for single posts
+14Aug19 zig - follow category
 */
+
 $page_id = be_get_page_id();
 global $blog_attr;
 global $more_text;
@@ -44,10 +46,12 @@ $post_format = get_post_format();
 					    }
 							// display all category
 							$categories = get_the_category();
+							$cat_ids = array();
  							if ( ! empty( $categories ) ) {
 							    echo '<div class="acr-prop-category">';
 									foreach( $categories as $category ) {
 									    echo $category->name.'<br />';
+											$cat_ids[] = $category->id;
 									}
 									echo '</div>';
 							}
@@ -123,23 +127,89 @@ $post_format = get_post_format();
 <?php /* adding naviation */ ?>
 <?php if (is_single()) { ?>
 <div id="cooler-nav" class="navigation">
-	<?php /* zig - next & previous are messed up due to ascending/descending */ ?>
-	<?php $prevPost = get_next_post(true);
-		echo "<!--<p>prev is: ".$prevPost->ID."</p>-->";
+	<?php
+		$cat_to_follow = "";
+		$cat_to_followid = "";
+		if (count($categories) == 1) { // only one category, no question....
+			$cat_to_follow = $categories[0]->slug;
+			$cat_to_followid = $categories[0]->id;
+			$exclude_catids = array();
+		} else { // need figure out the category we need to follow....
+				$cat_referer = wp_get_referer();
+				switch ($cat_referer) {
+					case site_url().'/acadia-coastal-rentals-region/':
+							$cat_to_follow = 'acadia';
+							break;
+					case site_url().'/downeast-maine-rentals/':
+							$cat_to_follow = 'downeast';
+							break;
+					case site_url().'/coastal-maine-vacation-rentals/':
+							$cat_to_follow = 'beaches-portland';
+							break;
+					case site_url().'/lakes-and-mountains-region-rentals/':
+							$cat_to_follow = 'lakes-and-mountains';
+							break;
+					case site_url().'/maine-highlands-and-katahdin-rentals/':
+							$cat_to_follow = 'maine-higlands';
+							break;
+				}
+				if ($cat_to_follow == "") {
+					// check url paramater
+					if (isset($_GET['area'])) {
+
+					  $cat_to_follow = $_GET['area'];
+						}
+				}
+				if ($cat_to_follow == "") { // try for SEO primary category
+					$primary_seo_catid = get_post_meta(get_the_ID(),"_yoast_wpseo_primary_category", true);
+					if ($primary_seo_catid) {
+
+						$primary_cat = get_category($primary_seo_catid);
+						$cat_to_follow = $primary_cat->slug;
+					}
+				}
+
+
+				if ($cat_to_follow != "") { // we have a cat to follow, exlude others
+					foreach( $categories as $category ) {
+							if ($category->slug != $cat_to_follow) {
+								$exclude_catids[] = $category->term_id;
+							}
+					}
+				}
+		} // end checking for cat to follow
+		//echo "categories: <hr><pre>"; var_dump($categories); echo "</pre>";
+		//echo '<p>category to follow is: {'.$cat_to_follow.'}</p>';
+		//echo "exluded ids:<hr><pre>"; var_dump($exclude_catids); echo "</pre>";
+		/* zig - next & previous are backwards up due to ascending/descending */
+		$urlparm = "";
+		if ($cat_to_follow != "") {
+			$urlparm = "?area=".$cat_to_follow;
+		}
+		$prevPost = get_previous_post(true, $exclude_catids);
+		//echo "<!--<p>prev is: ".$prevPost->ID."</p>-->";
 		if ($prevPost) { ?>
 			<div class="nav-box previous">
-				<?php $prevthumbnail = get_the_post_thumbnail($prevPost->ID, array(100,100) );?>
-				<?php next_post_link('%link',$prevthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-left" aria-hidden="true"></i>', TRUE); ?>
+				<?php $prevthumbnail = get_the_post_thumbnail($prevPost->ID, array(100,100) );
+ 					// build the linke
+					echo '<a href="'.get_permalink($prevPost).$urlparm.'">';
+					echo 		$prevthumbnail.'<h6>'.get_the_title($prevPost).'</h6><i class="fa fa-chevron-circle-left" aria-hidden="true"></i>';
+					echo '</a>';
+				?>
 			</div>
 
 		<?php } ?>
 
-		<?php $nextPost = get_previous_post(true);
-		echo "<!-- <p>next is: ".$nextPost->ID."</p> -->";
+		<?php
+		//echo "<!-- <p>next is: ".$nextPost->ID."</p> -->";
+		$nextPost = get_next_post(true, $exclude_catids);
 		if ($nextPost) {  ?>
 				<div class="nav-box next" style="float:right;">
-					<?php $nextthumbnail = get_the_post_thumbnail($nextPost->ID, array(100,100) );  ?>
-					<?php previous_post_link('%link',$nextthumbnail.'<h6>%title</h6><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>', TRUE); ?>
+					<?php $nextthumbnail = get_the_post_thumbnail($nextPost->ID, array(100,100) );
+							echo '<a href="'.get_permalink($nextPost).$urlparm.'">';
+							echo 		$nextthumbnail.'<h6>'.get_the_title($nextPost).'</h6><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>';
+							echo '</a>';
+					?>
 				</div>
 		<?php  }  ?>
 	</div><!--#cooler-nav div -->

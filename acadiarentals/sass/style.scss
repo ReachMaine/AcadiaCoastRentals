@@ -321,6 +321,7 @@ body.search.search-results {
   padding-top: 30px;
   background-color: $acr-yellow-bkg;
 }
+
 // footer
 #footer {
     a.reach-logo {
@@ -332,5 +333,16 @@ body.search.search-results {
     }
 }
 
+// single site page template
+// used for crabtree neck cottages "single site"
+body.page-template-page-singlesite {
+  #content {
+    background-color: $acr-cream-bkg;
+  }
+  #reach-bottom-cta {  // not really used on those pages, but just in case
+    background-color: $acr-sitebkg-ltgreen;
+  }
+
+}
 /* *** keep this at the end *** */
 @import "partials/media";
