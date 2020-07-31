@@ -48,6 +48,9 @@
 }
 
 @media only screen and (min-width: 768px)  {
+	.hide-tablet {
+		display: none!important;
+	}
 	.related-items.reach-blog {
 		.one-fourth {
 			width: 23%;

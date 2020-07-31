@@ -119,11 +119,28 @@ div.hr-logo hr:after {
     position: relative;
     top: -12px; /* half the height of the ornament */
 }
-.post-bottom-details .reach-post-props { // property opions on archive page/shortcode
-  padding-bottom: 10px;
-  color: $acr-dk-brown;
-  font-size: 1.5em;
-  line-height: 1.8em;
+.post-bottom-details {
+   .reach-post-props { // property opions on archive page/shortcode
+      padding-bottom: 10px;
+      color: $acr-dk-brown;
+      font-size: 1.5em;
+      line-height: 1.8em;
+      display: inline;
+      padding-right: 6px;
+    }
+    .reach-contact-email,
+    .reach-contact-phone {
+      display: inline;
+      a {
+        border: 1px solid $acr-green;
+        background-color: white;
+        padding: 4px;
+      }
+    }
+    .reach-contact-email {
+      padding-right: 5px;
+    }
+
 }
 .single-page-att {
     margin-bottom: 0px;
