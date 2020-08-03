@@ -38,4 +38,24 @@ if( !empty( $url ) && !is_single() ) : ?>
 		</a>
 	</div>
 </div>
-<?php endif; ?>
+<?php
+
+	$contact_email = get_post_meta( get_the_ID(), 'property_contact_email', true);
+	$contact_phone = get_post_meta( get_the_ID(), 'property_contact_phone', true);
+	if ( ($contact_email) || ($contact_phone) ) {
+		echo '<div class="reach-contact-details">';
+	}
+	if ($contact_email) {
+		$email_display = "Email Owner";
+		$email_cc = "abitofmaine@gmail.com";
+		$email_subject = rawurlencode(get_the_title());
+		echo '<div class="reach-contact-email hide-tablet"><a target="_blank" href="mailto:'.$contact_email.'?cc='.$email_cc.'&subject='.$email_subject.'">'.$email_display.'</a></div>';
+	}
+	if ($contact_phone) {
+		$phone_link = preg_replace('/\D+/', '', $contact_phone);
+		echo '<div class="reach-contact-phone hide-tablet"><a target="_blank" href="tel:'.$phone_link.'">'.$contact_phone.'</a></div>';
+	}
+	if ( ($contact_email) || ($contact_phone) ) {
+		echo '</div>';
+	}
+endif; ?>

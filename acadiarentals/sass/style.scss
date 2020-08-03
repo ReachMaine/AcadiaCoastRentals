@@ -128,8 +128,12 @@ div.hr-logo hr:after {
       display: inline;
       padding-right: 6px;
     }
-    .reach-contact-email,
-    .reach-contact-phone {
+}
+.reach-contact-details {
+  display: block;
+  text-align: center;
+  .reach-contact-email, // both "buttons"
+  .reach-contact-phone {
       display: inline;
       a {
         border: 1px solid $acr-green;
@@ -137,11 +141,10 @@ div.hr-logo hr:after {
         padding: 4px;
       }
     }
-    .reach-contact-email {
+    .reach-contact-email { // just the email
       padding-right: 5px;
     }
-
-}
+} // contact-details
 .single-page-att {
     margin-bottom: 0px;
 }

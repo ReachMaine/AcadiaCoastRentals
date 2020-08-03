@@ -22,6 +22,21 @@
 		margin-bottom: 0px;
 
 	}
+	.reach-blog article {
+		padding-bottom: 20px;
+		.post-content-wrap {
+			.reach-contact-details {
+				padding-top: 20px;
+			}
+			.article-details {
+				padding-top: 10px;
+				.post-title {
+					margin-bottom: 0px!important;
+				}
+			}
+
+		}
+	}
 }
 
 @media only screen and (max-width: 480px) {
