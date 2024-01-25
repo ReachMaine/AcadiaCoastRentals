@@ -1,4 +1,5 @@
 /* styling for gravity forms. */
+// new gform uses divs not ul & li for form
 .gform_wrapper {
   border: 1px solid $acr-green;
   padding-left: 10px;
@@ -9,14 +10,14 @@
       }
     }
     .gform_body {
-      ul.gform_fields {
-        li.gfield {
+      .gform_fields {
+        .gfield {
           textarea {
             background-color: white;
           }
         }
 
-        li.gfield.reach_gf_hide_title {
+        .gfield.reach_gf_hide_title {
           label.gfield_label {
             display: none;
           }
@@ -24,12 +25,12 @@
       }
     }
     .gform_footer {
-      text-align: right;
-      /* input[type=submit] {
-         background-color: $bam-lighter-blue;
-         color: white;
+      text-align: right; // for old style forms (on listing)
+      justify-content: flex-end; // new style forms
+       input[type=submit] {
+          font-size: 1em;
        }
-       input[type=submit]:hover {
+       /* input[type=submit]:hover { // no hover right now
          background-color: #242425;
          border-color: #4985FF;
        }
@@ -37,4 +38,8 @@
 
     }
   }
+}
+
+.gform_wrapper form.abom-gf-air {
+  padding: 10px 20px 10px 20px;
 }
