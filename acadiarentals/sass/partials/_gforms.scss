@@ -29,6 +29,7 @@
       justify-content: flex-end; // new style forms
        input[type=submit] {
           font-size: 1em;
+          color: white!important;
        }
        /* input[type=submit]:hover { // no hover right now
          background-color: #242425;
@@ -39,7 +40,10 @@
     }
   }
 }
+.gform_wrapper.abom-gf-noborder_wrapper {
+  border: 0px;
 
+}
 .gform_wrapper form.abom-gf-air {
   padding: 10px 20px 10px 20px;
 }
